@@ -1,0 +1,50 @@
+testing with
+  lockable items: 10000000
+  threads       : 5
+  transactions  : 1000000
+  refs per tx   : 20
+
+record init required 498 msec
+
+newer TSN 198217 when acquiring ITEM 6950754 in TX 2 TSN 198215
+CONFLICT rolling back 12 items in TX 2 TSN 198215
+newer TSN 218733 when acquiring ITEM 4377980 in TX 1 TSN 218732
+CONFLICT rolling back 16 items in TX 1 TSN 218732
+newer TSN 255728 when acquiring ITEM 7095073 in TX 2 TSN 255727
+CONFLICT rolling back 15 items in TX 2 TSN 255727
+newer TSN 351855 when acquiring ITEM 6234119 in TX 2 TSN 351854
+CONFLICT rolling back 14 items in TX 2 TSN 351854
+newer TSN 410009 when acquiring ITEM 3580607 in TX 3 TSN 410008
+CONFLICT rolling back 11 items in TX 3 TSN 410008
+newer TSN 942132 when acquiring ITEM 3805649 in TX 5 TSN 942130
+CONFLICT rolling back 8 items in TX 5 TSN 942130
+newer TSN 1182900 when acquiring ITEM 6819374 in TX 3 TSN 1182898
+CONFLICT rolling back 18 items in TX 3 TSN 1182898
+newer TSN 1371364 when acquiring ITEM 7411603 in TX 2 TSN 1371362
+CONFLICT rolling back 10 items in TX 2 TSN 1371362
+newer TSN 1471129 when acquiring ITEM 1436450 in TX 3 TSN 1471128
+CONFLICT rolling back 9 items in TX 3 TSN 1471128
+newer TSN 1556535 when acquiring ITEM 7172641 in TX 1 TSN 1556534
+CONFLICT rolling back 9 items in TX 1 TSN 1556534
+newer TSN 1685896 when acquiring ITEM 4647115 in TX 2 TSN 1685895
+CONFLICT rolling back 7 items in TX 2 TSN 1685895
+newer TSN 2092293 when acquiring ITEM 7567537 in TX 1 TSN 2092291
+CONFLICT rolling back 16 items in TX 1 TSN 2092291
+newer TSN 2505025 when acquiring ITEM 2783858 in TX 2 TSN 2505024
+CONFLICT rolling back 5 items in TX 2 TSN 2505024
+newer TSN 3369833 when acquiring ITEM 7608873 in TX 2 TSN 3369832
+CONFLICT rolling back 17 items in TX 2 TSN 3369832
+newer TSN 3405554 when acquiring ITEM 2262561 in TX 3 TSN 3405553
+CONFLICT rolling back 17 items in TX 3 TSN 3405553
+newer TSN 4122507 when acquiring ITEM 9855771 in TX 3 TSN 4122505
+CONFLICT rolling back 6 items in TX 3 TSN 4122505
+newer TSN 4659352 when acquiring ITEM 8377032 in TX 4 TSN 4659350
+CONFLICT rolling back 8 items in TX 4 TSN 4659350
+TX 3 took 3953 msec
+TX 5 took 4008 msec
+TX 4 took 4091 msec
+TX 1 took 4192 msec
+TX 2 took 4292 msec
+
+transactions required 4292 msec
+clean-up required 0 msec

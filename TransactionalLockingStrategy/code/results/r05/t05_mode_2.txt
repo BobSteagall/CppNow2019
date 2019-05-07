@@ -1,0 +1,16 @@
+testing with
+  lockable items: 100000
+  threads       : 5
+  transactions  : 1000000
+  refs per tx   : 20
+
+record init required 4 msec
+
+TX 0 took 25383 msec
+TX 0 took 25429 msec
+TX 0 took 25461 msec
+TX 0 took 25475 msec
+TX 0 took 25481 msec
+
+transactions required 25482 msec
+clean-up required 0 msec

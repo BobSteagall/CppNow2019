@@ -1,0 +1,36 @@
+testing with
+  lockable items: 10000000
+  threads       : 5
+  transactions  : 1000000
+  refs per tx   : 20
+
+record init required 491 msec
+
+RACE FOUND!, TX 0  item 1709681
+RACE FOUND!, TX 0  item 9057877
+RACE FOUND!, TX 0  item 7182779
+RACE FOUND!, TX 0  item 4632512
+RACE FOUND!, TX 0  item 3202293
+RACE FOUND!, TX 0  item 9754392
+RACE FOUND!, TX 0  item 4254617
+RACE FOUND!, TX 0  item 1187252
+RACE FOUND!, TX 0  item 1187252
+RACE FOUND!, TX 0  item 1646182
+RACE FOUND!, TX 0  item 4498170
+RACE FOUND!, TX 0  item 4498170
+RACE FOUND!, TX 0  item 3476637
+RACE FOUND!, TX 0  item 7416245
+RACE FOUND!, TX 0  item 3914286
+RACE FOUND!, TX 0  item 2923468
+RACE FOUND!, TX 0  item 4636085
+RACE FOUND!, TX 0  item 5667781
+RACE FOUND!, TX 0  item 8568612
+TX 0 took 3383 msec
+RACE FOUND!, TX 0  item 3927473
+TX 0 took 3427 msec
+TX 0 took 3436 msec
+TX 0 took 3463 msec
+TX 0 took 3475 msec
+
+transactions required 3476 msec
+clean-up required 0 msec

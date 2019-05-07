@@ -1,0 +1,15 @@
+testing with
+  lockable items: 10000000
+  threads       : 2
+  transactions  : 1000000
+  refs per tx   : 20
+
+record init required 491 msec
+
+newer TSN 625946 when acquiring ITEM 7532935 in TX 2 TSN 625945
+CONFLICT rolling back 13 items in TX 2 TSN 625945
+TX 1 took 3793 msec
+TX 2 took 3810 msec
+
+transactions required 3811 msec
+clean-up required 0 msec

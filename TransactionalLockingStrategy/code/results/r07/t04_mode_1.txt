@@ -1,0 +1,35 @@
+testing with
+  lockable items: 10000000
+  threads       : 4
+  transactions  : 1000000
+  refs per tx   : 20
+
+record init required 507 msec
+
+newer TSN 47850 when acquiring ITEM 8545690 in TX 2 TSN 47849
+CONFLICT rolling back 8 items in TX 2 TSN 47849
+newer TSN 1164643 when acquiring ITEM 4388110 in TX 3 TSN 1164642
+CONFLICT rolling back 11 items in TX 3 TSN 1164642
+newer TSN 1191622 when acquiring ITEM 601062 in TX 4 TSN 1191621
+CONFLICT rolling back 13 items in TX 4 TSN 1191621
+newer TSN 1233183 when acquiring ITEM 9483121 in TX 1 TSN 1233182
+CONFLICT rolling back 17 items in TX 1 TSN 1233182
+newer TSN 1479618 when acquiring ITEM 7169577 in TX 3 TSN 1479616
+CONFLICT rolling back 10 items in TX 3 TSN 1479616
+newer TSN 1728850 when acquiring ITEM 4092096 in TX 3 TSN 1728849
+CONFLICT rolling back 12 items in TX 3 TSN 1728849
+newer TSN 1804800 when acquiring ITEM 4050986 in TX 3 TSN 1804799
+CONFLICT rolling back 5 items in TX 3 TSN 1804799
+newer TSN 2443842 when acquiring ITEM 4955318 in TX 3 TSN 2443841
+CONFLICT rolling back 14 items in TX 3 TSN 2443841
+newer TSN 3487131 when acquiring ITEM 8391750 in TX 1 TSN 3487130
+CONFLICT rolling back 15 items in TX 1 TSN 3487130
+newer TSN 3868017 when acquiring ITEM 8110880 in TX 3 TSN 3868015
+CONFLICT rolling back 19 items in TX 3 TSN 3868015
+TX 1 took 3831 msec
+TX 2 took 3836 msec
+TX 4 took 3840 msec
+TX 3 took 3845 msec
+
+transactions required 3845 msec
+clean-up required 0 msec

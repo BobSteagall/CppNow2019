@@ -1,0 +1,2237 @@
+testing with
+  lockable items: 100000
+  threads       : 6
+  transactions  : 1000000
+  refs per tx   : 20
+
+record init required 4 msec
+
+newer TSN 21839 when acquiring ITEM 84387 in TX 3 TSN 21838
+CONFLICT rolling back 18 items in TX 3 TSN 21838
+newer TSN 25116 when acquiring ITEM 54547 in TX 4 TSN 25082
+CONFLICT rolling back 12 items in TX 4 TSN 25082
+newer TSN 26708 when acquiring ITEM 74040 in TX 6 TSN 26694
+CONFLICT rolling back 17 items in TX 6 TSN 26694
+newer TSN 30610 when acquiring ITEM 42954 in TX 2 TSN 30609
+CONFLICT rolling back 6 items in TX 2 TSN 30609
+newer TSN 31456 when acquiring ITEM 9037 in TX 2 TSN 31455
+CONFLICT rolling back 6 items in TX 2 TSN 31455
+newer TSN 41351 when acquiring ITEM 40942 in TX 6 TSN 41350
+CONFLICT rolling back 16 items in TX 6 TSN 41350
+newer TSN 51464 when acquiring ITEM 9471 in TX 1 TSN 51462
+CONFLICT rolling back 3 items in TX 1 TSN 51462
+newer TSN 51606 when acquiring ITEM 70579 in TX 3 TSN 51605
+CONFLICT rolling back 8 items in TX 3 TSN 51605
+newer TSN 52038 when acquiring ITEM 6864 in TX 3 TSN 52037
+CONFLICT rolling back 11 items in TX 3 TSN 52037
+newer TSN 55984 when acquiring ITEM 16893 in TX 3 TSN 55971
+CONFLICT rolling back 14 items in TX 3 TSN 55971
+newer TSN 56242 when acquiring ITEM 87969 in TX 2 TSN 56241
+CONFLICT rolling back 16 items in TX 2 TSN 56241
+newer TSN 59726 when acquiring ITEM 43059 in TX 6 TSN 59712
+CONFLICT rolling back 17 items in TX 6 TSN 59712
+newer TSN 60025 when acquiring ITEM 72437 in TX 4 TSN 60024
+CONFLICT rolling back 19 items in TX 4 TSN 60024
+newer TSN 73026 when acquiring ITEM 91055 in TX 2 TSN 73024
+CONFLICT rolling back 5 items in TX 2 TSN 73024
+newer TSN 92966 when acquiring ITEM 91079 in TX 2 TSN 92955
+CONFLICT rolling back 17 items in TX 2 TSN 92955
+newer TSN 123958 when acquiring ITEM 68257 in TX 6 TSN 123946
+CONFLICT rolling back 12 items in TX 6 TSN 123946
+newer TSN 125772 when acquiring ITEM 29785 in TX 6 TSN 125771
+CONFLICT rolling back 5 items in TX 6 TSN 125771
+newer TSN 126728 when acquiring ITEM 55266 in TX 3 TSN 126716
+CONFLICT rolling back 13 items in TX 3 TSN 126716
+newer TSN 131231 when acquiring ITEM 27896 in TX 4 TSN 131230
+CONFLICT rolling back 17 items in TX 4 TSN 131230
+newer TSN 147609 when acquiring ITEM 86199 in TX 1 TSN 147603
+CONFLICT rolling back 13 items in TX 1 TSN 147603
+newer TSN 153707 when acquiring ITEM 75021 in TX 6 TSN 153705
+CONFLICT rolling back 11 items in TX 6 TSN 153705
+newer TSN 160329 when acquiring ITEM 21131 in TX 2 TSN 160328
+CONFLICT rolling back 12 items in TX 2 TSN 160328
+newer TSN 163501 when acquiring ITEM 15406 in TX 4 TSN 163499
+CONFLICT rolling back 18 items in TX 4 TSN 163499
+newer TSN 163966 when acquiring ITEM 16548 in TX 4 TSN 163965
+CONFLICT rolling back 10 items in TX 4 TSN 163965
+newer TSN 170719 when acquiring ITEM 61170 in TX 5 TSN 170709
+CONFLICT rolling back 5 items in TX 5 TSN 170709
+newer TSN 191523 when acquiring ITEM 38105 in TX 4 TSN 191521
+CONFLICT rolling back 13 items in TX 4 TSN 191521
+newer TSN 201190 when acquiring ITEM 99131 in TX 1 TSN 201189
+CONFLICT rolling back 12 items in TX 1 TSN 201189
+newer TSN 203571 when acquiring ITEM 89716 in TX 2 TSN 203570
+CONFLICT rolling back 15 items in TX 2 TSN 203570
+newer TSN 203846 when acquiring ITEM 78646 in TX 1 TSN 203845
+CONFLICT rolling back 17 items in TX 1 TSN 203845
+newer TSN 204238 when acquiring ITEM 65073 in TX 1 TSN 204214
+CONFLICT rolling back 14 items in TX 1 TSN 204214
+newer TSN 211222 when acquiring ITEM 60141 in TX 4 TSN 211208
+CONFLICT rolling back 10 items in TX 4 TSN 211208
+newer TSN 213725 when acquiring ITEM 37854 in TX 2 TSN 213724
+CONFLICT rolling back 2 items in TX 2 TSN 213724
+newer TSN 235138 when acquiring ITEM 42104 in TX 3 TSN 235137
+CONFLICT rolling back 10 items in TX 3 TSN 235137
+newer TSN 246160 when acquiring ITEM 3062 in TX 2 TSN 246159
+CONFLICT rolling back 14 items in TX 2 TSN 246159
+newer TSN 246765 when acquiring ITEM 89922 in TX 5 TSN 246763
+CONFLICT rolling back 14 items in TX 5 TSN 246763
+newer TSN 256604 when acquiring ITEM 49889 in TX 2 TSN 256603
+CONFLICT rolling back 4 items in TX 2 TSN 256603
+newer TSN 257689 when acquiring ITEM 74688 in TX 4 TSN 257685
+CONFLICT rolling back 20 items in TX 4 TSN 257685
+newer TSN 260240 when acquiring ITEM 41265 in TX 6 TSN 260239
+CONFLICT rolling back 11 items in TX 6 TSN 260239
+newer TSN 260568 when acquiring ITEM 73727 in TX 1 TSN 260552
+CONFLICT rolling back 9 items in TX 1 TSN 260552
+newer TSN 265798 when acquiring ITEM 54946 in TX 6 TSN 265788
+CONFLICT rolling back 5 items in TX 6 TSN 265788
+newer TSN 277947 when acquiring ITEM 24097 in TX 2 TSN 277928
+CONFLICT rolling back 6 items in TX 2 TSN 277928
+newer TSN 279389 when acquiring ITEM 31726 in TX 5 TSN 279388
+CONFLICT rolling back 12 items in TX 5 TSN 279388
+newer TSN 285110 when acquiring ITEM 75157 in TX 1 TSN 285099
+CONFLICT rolling back 3 items in TX 1 TSN 285099
+newer TSN 285220 when acquiring ITEM 86943 in TX 2 TSN 285219
+CONFLICT rolling back 15 items in TX 2 TSN 285219
+newer TSN 294153 when acquiring ITEM 38109 in TX 3 TSN 294152
+CONFLICT rolling back 13 items in TX 3 TSN 294152
+newer TSN 295922 when acquiring ITEM 89404 in TX 1 TSN 295921
+CONFLICT rolling back 8 items in TX 1 TSN 295921
+newer TSN 296832 when acquiring ITEM 73666 in TX 6 TSN 296830
+CONFLICT rolling back 3 items in TX 6 TSN 296830
+newer TSN 307833 when acquiring ITEM 852 in TX 4 TSN 307813
+CONFLICT rolling back 4 items in TX 4 TSN 307813
+newer TSN 309508 when acquiring ITEM 28835 in TX 3 TSN 309507
+CONFLICT rolling back 18 items in TX 3 TSN 309507
+newer TSN 313044 when acquiring ITEM 9236 in TX 5 TSN 313038
+CONFLICT rolling back 13 items in TX 5 TSN 313038
+newer TSN 316812 when acquiring ITEM 73872 in TX 2 TSN 316811
+CONFLICT rolling back 10 items in TX 2 TSN 316811
+newer TSN 317308 when acquiring ITEM 48019 in TX 6 TSN 317270
+CONFLICT rolling back 1 items in TX 6 TSN 317270
+newer TSN 323880 when acquiring ITEM 87028 in TX 3 TSN 323879
+CONFLICT rolling back 15 items in TX 3 TSN 323879
+newer TSN 325863 when acquiring ITEM 73032 in TX 6 TSN 325862
+CONFLICT rolling back 9 items in TX 6 TSN 325862
+newer TSN 328478 when acquiring ITEM 57898 in TX 4 TSN 328477
+CONFLICT rolling back 9 items in TX 4 TSN 328477
+newer TSN 328773 when acquiring ITEM 64639 in TX 2 TSN 328717
+CONFLICT rolling back 12 items in TX 2 TSN 328717
+newer TSN 370882 when acquiring ITEM 32362 in TX 3 TSN 370871
+CONFLICT rolling back 19 items in TX 3 TSN 370871
+newer TSN 382056 when acquiring ITEM 44626 in TX 3 TSN 382055
+CONFLICT rolling back 7 items in TX 3 TSN 382055
+newer TSN 383290 when acquiring ITEM 50489 in TX 3 TSN 383286
+CONFLICT rolling back 16 items in TX 3 TSN 383286
+newer TSN 387436 when acquiring ITEM 70561 in TX 2 TSN 387433
+CONFLICT rolling back 12 items in TX 2 TSN 387433
+newer TSN 388604 when acquiring ITEM 65486 in TX 2 TSN 388599
+CONFLICT rolling back 14 items in TX 2 TSN 388599
+newer TSN 391997 when acquiring ITEM 17230 in TX 3 TSN 391992
+CONFLICT rolling back 3 items in TX 3 TSN 391992
+newer TSN 394502 when acquiring ITEM 27769 in TX 5 TSN 394500
+CONFLICT rolling back 9 items in TX 5 TSN 394500
+newer TSN 404888 when acquiring ITEM 37587 in TX 2 TSN 404887
+CONFLICT rolling back 12 items in TX 2 TSN 404887
+newer TSN 411107 when acquiring ITEM 63206 in TX 3 TSN 411106
+CONFLICT rolling back 19 items in TX 3 TSN 411106
+newer TSN 411727 when acquiring ITEM 71877 in TX 6 TSN 411725
+CONFLICT rolling back 10 items in TX 6 TSN 411725
+newer TSN 421624 when acquiring ITEM 79562 in TX 3 TSN 421623
+CONFLICT rolling back 14 items in TX 3 TSN 421623
+newer TSN 432365 when acquiring ITEM 10035 in TX 5 TSN 432345
+CONFLICT rolling back 12 items in TX 5 TSN 432345
+newer TSN 435683 when acquiring ITEM 61030 in TX 1 TSN 435681
+CONFLICT rolling back 3 items in TX 1 TSN 435681
+newer TSN 436169 when acquiring ITEM 811 in TX 5 TSN 436168
+CONFLICT rolling back 12 items in TX 5 TSN 436168
+newer TSN 441106 when acquiring ITEM 54110 in TX 1 TSN 441105
+CONFLICT rolling back 1 items in TX 1 TSN 441105
+newer TSN 460357 when acquiring ITEM 70025 in TX 4 TSN 460349
+CONFLICT rolling back 12 items in TX 4 TSN 460349
+newer TSN 464462 when acquiring ITEM 74799 in TX 3 TSN 464461
+CONFLICT rolling back 10 items in TX 3 TSN 464461
+newer TSN 473337 when acquiring ITEM 73247 in TX 4 TSN 473322
+CONFLICT rolling back 16 items in TX 4 TSN 473322
+newer TSN 476064 when acquiring ITEM 77742 in TX 6 TSN 476063
+CONFLICT rolling back 5 items in TX 6 TSN 476063
+newer TSN 477302 when acquiring ITEM 2176 in TX 1 TSN 477301
+CONFLICT rolling back 11 items in TX 1 TSN 477301
+newer TSN 484671 when acquiring ITEM 72799 in TX 2 TSN 484669
+CONFLICT rolling back 16 items in TX 2 TSN 484669
+newer TSN 487310 when acquiring ITEM 45648 in TX 1 TSN 487309
+CONFLICT rolling back 13 items in TX 1 TSN 487309
+newer TSN 487967 when acquiring ITEM 82708 in TX 5 TSN 487959
+CONFLICT rolling back 17 items in TX 5 TSN 487959
+newer TSN 489975 when acquiring ITEM 64288 in TX 1 TSN 489974
+CONFLICT rolling back 5 items in TX 1 TSN 489974
+newer TSN 496410 when acquiring ITEM 50846 in TX 4 TSN 496409
+CONFLICT rolling back 17 items in TX 4 TSN 496409
+newer TSN 498485 when acquiring ITEM 22765 in TX 6 TSN 498484
+CONFLICT rolling back 6 items in TX 6 TSN 498484
+newer TSN 498746 when acquiring ITEM 94071 in TX 1 TSN 498735
+CONFLICT rolling back 8 items in TX 1 TSN 498735
+newer TSN 500802 when acquiring ITEM 76541 in TX 2 TSN 500801
+CONFLICT rolling back 14 items in TX 2 TSN 500801
+newer TSN 503975 when acquiring ITEM 25091 in TX 1 TSN 503974
+CONFLICT rolling back 8 items in TX 1 TSN 503974
+newer TSN 510558 when acquiring ITEM 17657 in TX 4 TSN 510557
+CONFLICT rolling back 12 items in TX 4 TSN 510557
+newer TSN 515450 when acquiring ITEM 79425 in TX 1 TSN 515442
+CONFLICT rolling back 4 items in TX 1 TSN 515442
+newer TSN 520968 when acquiring ITEM 15764 in TX 5 TSN 520966
+CONFLICT rolling back 15 items in TX 5 TSN 520966
+newer TSN 523580 when acquiring ITEM 99411 in TX 6 TSN 523569
+CONFLICT rolling back 13 items in TX 6 TSN 523569
+newer TSN 539743 when acquiring ITEM 76066 in TX 6 TSN 539742
+CONFLICT rolling back 18 items in TX 6 TSN 539742
+newer TSN 546490 when acquiring ITEM 52836 in TX 1 TSN 546489
+CONFLICT rolling back 4 items in TX 1 TSN 546489
+newer TSN 568615 when acquiring ITEM 4834 in TX 4 TSN 568614
+CONFLICT rolling back 13 items in TX 4 TSN 568614
+newer TSN 571827 when acquiring ITEM 68945 in TX 2 TSN 571826
+CONFLICT rolling back 17 items in TX 2 TSN 571826
+newer TSN 574546 when acquiring ITEM 27038 in TX 1 TSN 574517
+CONFLICT rolling back 10 items in TX 1 TSN 574517
+newer TSN 576628 when acquiring ITEM 1396 in TX 1 TSN 576627
+CONFLICT rolling back 5 items in TX 1 TSN 576627
+newer TSN 577817 when acquiring ITEM 41968 in TX 4 TSN 577816
+CONFLICT rolling back 17 items in TX 4 TSN 577816
+newer TSN 592691 when acquiring ITEM 52658 in TX 2 TSN 592685
+CONFLICT rolling back 8 items in TX 2 TSN 592685
+newer TSN 598123 when acquiring ITEM 60005 in TX 3 TSN 598121
+CONFLICT rolling back 17 items in TX 3 TSN 598121
+newer TSN 601359 when acquiring ITEM 39541 in TX 5 TSN 601358
+CONFLICT rolling back 7 items in TX 5 TSN 601358
+newer TSN 607898 when acquiring ITEM 24603 in TX 2 TSN 607884
+CONFLICT rolling back 15 items in TX 2 TSN 607884
+newer TSN 617200 when acquiring ITEM 73276 in TX 3 TSN 617189
+CONFLICT rolling back 5 items in TX 3 TSN 617189
+newer TSN 617269 when acquiring ITEM 60519 in TX 5 TSN 617252
+CONFLICT rolling back 12 items in TX 5 TSN 617252
+newer TSN 619781 when acquiring ITEM 8688 in TX 3 TSN 619780
+CONFLICT rolling back 14 items in TX 3 TSN 619780
+newer TSN 626700 when acquiring ITEM 16111 in TX 5 TSN 626699
+CONFLICT rolling back 10 items in TX 5 TSN 626699
+newer TSN 634408 when acquiring ITEM 74407 in TX 6 TSN 634407
+CONFLICT rolling back 16 items in TX 6 TSN 634407
+newer TSN 635410 when acquiring ITEM 54117 in TX 6 TSN 635409
+CONFLICT rolling back 11 items in TX 6 TSN 635409
+newer TSN 639607 when acquiring ITEM 52354 in TX 1 TSN 639606
+CONFLICT rolling back 6 items in TX 1 TSN 639606
+newer TSN 655813 when acquiring ITEM 18989 in TX 6 TSN 655809
+CONFLICT rolling back 9 items in TX 6 TSN 655809
+newer TSN 658485 when acquiring ITEM 94774 in TX 1 TSN 658484
+CONFLICT rolling back 18 items in TX 1 TSN 658484
+newer TSN 659355 when acquiring ITEM 4958 in TX 1 TSN 659349
+CONFLICT rolling back 4 items in TX 1 TSN 659349
+newer TSN 673544 when acquiring ITEM 28265 in TX 5 TSN 673543
+CONFLICT rolling back 9 items in TX 5 TSN 673543
+newer TSN 675990 when acquiring ITEM 51234 in TX 6 TSN 675976
+CONFLICT rolling back 11 items in TX 6 TSN 675976
+newer TSN 677424 when acquiring ITEM 22942 in TX 3 TSN 677423
+CONFLICT rolling back 7 items in TX 3 TSN 677423
+newer TSN 678085 when acquiring ITEM 69670 in TX 4 TSN 678083
+CONFLICT rolling back 17 items in TX 4 TSN 678083
+newer TSN 680884 when acquiring ITEM 58890 in TX 6 TSN 680883
+CONFLICT rolling back 15 items in TX 6 TSN 680883
+newer TSN 689939 when acquiring ITEM 50719 in TX 3 TSN 689938
+CONFLICT rolling back 12 items in TX 3 TSN 689938
+newer TSN 692369 when acquiring ITEM 60645 in TX 2 TSN 692368
+CONFLICT rolling back 10 items in TX 2 TSN 692368
+newer TSN 693203 when acquiring ITEM 13925 in TX 2 TSN 693192
+CONFLICT rolling back 0 items in TX 2 TSN 693192
+newer TSN 701267 when acquiring ITEM 68283 in TX 2 TSN 701252
+CONFLICT rolling back 8 items in TX 2 TSN 701252
+newer TSN 708169 when acquiring ITEM 45900 in TX 3 TSN 708142
+CONFLICT rolling back 9 items in TX 3 TSN 708142
+newer TSN 712509 when acquiring ITEM 7547 in TX 1 TSN 712508
+CONFLICT rolling back 14 items in TX 1 TSN 712508
+newer TSN 719622 when acquiring ITEM 9640 in TX 5 TSN 719621
+CONFLICT rolling back 9 items in TX 5 TSN 719621
+newer TSN 726149 when acquiring ITEM 22310 in TX 1 TSN 726120
+CONFLICT rolling back 8 items in TX 1 TSN 726120
+newer TSN 728787 when acquiring ITEM 3932 in TX 2 TSN 728774
+CONFLICT rolling back 2 items in TX 2 TSN 728774
+newer TSN 731849 when acquiring ITEM 40327 in TX 3 TSN 731848
+CONFLICT rolling back 16 items in TX 3 TSN 731848
+newer TSN 755974 when acquiring ITEM 77303 in TX 6 TSN 755972
+CONFLICT rolling back 15 items in TX 6 TSN 755972
+newer TSN 766426 when acquiring ITEM 5876 in TX 5 TSN 766424
+CONFLICT rolling back 12 items in TX 5 TSN 766424
+newer TSN 780698 when acquiring ITEM 65113 in TX 5 TSN 780697
+CONFLICT rolling back 13 items in TX 5 TSN 780697
+newer TSN 787803 when acquiring ITEM 31139 in TX 2 TSN 787802
+CONFLICT rolling back 19 items in TX 2 TSN 787802
+newer TSN 793467 when acquiring ITEM 65687 in TX 6 TSN 793466
+CONFLICT rolling back 9 items in TX 6 TSN 793466
+newer TSN 794028 when acquiring ITEM 59739 in TX 1 TSN 794021
+CONFLICT rolling back 5 items in TX 1 TSN 794021
+newer TSN 804273 when acquiring ITEM 84753 in TX 4 TSN 804271
+CONFLICT rolling back 8 items in TX 4 TSN 804271
+newer TSN 812223 when acquiring ITEM 17953 in TX 4 TSN 812216
+CONFLICT rolling back 16 items in TX 4 TSN 812216
+newer TSN 819497 when acquiring ITEM 27108 in TX 5 TSN 819494
+CONFLICT rolling back 18 items in TX 5 TSN 819494
+newer TSN 822336 when acquiring ITEM 99266 in TX 5 TSN 822334
+CONFLICT rolling back 13 items in TX 5 TSN 822334
+newer TSN 832604 when acquiring ITEM 1422 in TX 6 TSN 832582
+CONFLICT rolling back 20 items in TX 6 TSN 832582
+newer TSN 833018 when acquiring ITEM 95458 in TX 2 TSN 833013
+CONFLICT rolling back 3 items in TX 2 TSN 833013
+newer TSN 837276 when acquiring ITEM 96927 in TX 3 TSN 837263
+CONFLICT rolling back 6 items in TX 3 TSN 837263
+newer TSN 841559 when acquiring ITEM 60849 in TX 2 TSN 841553
+CONFLICT rolling back 9 items in TX 2 TSN 841553
+newer TSN 870937 when acquiring ITEM 88772 in TX 3 TSN 870923
+CONFLICT rolling back 2 items in TX 3 TSN 870923
+newer TSN 883318 when acquiring ITEM 13982 in TX 1 TSN 883317
+CONFLICT rolling back 10 items in TX 1 TSN 883317
+newer TSN 886183 when acquiring ITEM 61706 in TX 1 TSN 886182
+CONFLICT rolling back 15 items in TX 1 TSN 886182
+newer TSN 887404 when acquiring ITEM 49275 in TX 1 TSN 887403
+CONFLICT rolling back 14 items in TX 1 TSN 887403
+newer TSN 893826 when acquiring ITEM 46359 in TX 5 TSN 893807
+CONFLICT rolling back 11 items in TX 5 TSN 893807
+newer TSN 901445 when acquiring ITEM 48052 in TX 1 TSN 901434
+CONFLICT rolling back 5 items in TX 1 TSN 901434
+newer TSN 902869 when acquiring ITEM 67936 in TX 1 TSN 902868
+CONFLICT rolling back 3 items in TX 1 TSN 902868
+newer TSN 903428 when acquiring ITEM 89491 in TX 1 TSN 903427
+CONFLICT rolling back 5 items in TX 1 TSN 903427
+newer TSN 909754 when acquiring ITEM 56874 in TX 3 TSN 909753
+CONFLICT rolling back 8 items in TX 3 TSN 909753
+newer TSN 917612 when acquiring ITEM 7827 in TX 5 TSN 917611
+CONFLICT rolling back 11 items in TX 5 TSN 917611
+newer TSN 921764 when acquiring ITEM 8999 in TX 3 TSN 921749
+CONFLICT rolling back 12 items in TX 3 TSN 921749
+newer TSN 923391 when acquiring ITEM 53980 in TX 5 TSN 923388
+CONFLICT rolling back 10 items in TX 5 TSN 923388
+newer TSN 939185 when acquiring ITEM 76519 in TX 6 TSN 939183
+CONFLICT rolling back 13 items in TX 6 TSN 939183
+newer TSN 941063 when acquiring ITEM 31221 in TX 1 TSN 941062
+CONFLICT rolling back 7 items in TX 1 TSN 941062
+newer TSN 942096 when acquiring ITEM 36903 in TX 4 TSN 942095
+CONFLICT rolling back 17 items in TX 4 TSN 942095
+newer TSN 952651 when acquiring ITEM 85274 in TX 6 TSN 952491
+CONFLICT rolling back 6 items in TX 6 TSN 952491
+newer TSN 960098 when acquiring ITEM 62907 in TX 3 TSN 960097
+CONFLICT rolling back 6 items in TX 3 TSN 960097
+newer TSN 962033 when acquiring ITEM 47716 in TX 5 TSN 962021
+CONFLICT rolling back 16 items in TX 5 TSN 962021
+newer TSN 962184 when acquiring ITEM 97470 in TX 2 TSN 962183
+CONFLICT rolling back 13 items in TX 2 TSN 962183
+newer TSN 965805 when acquiring ITEM 41365 in TX 1 TSN 965804
+CONFLICT rolling back 13 items in TX 1 TSN 965804
+newer TSN 970744 when acquiring ITEM 83122 in TX 2 TSN 970743
+CONFLICT rolling back 13 items in TX 2 TSN 970743
+newer TSN 971917 when acquiring ITEM 21588 in TX 6 TSN 971916
+CONFLICT rolling back 18 items in TX 6 TSN 971916
+newer TSN 972078 when acquiring ITEM 2143 in TX 5 TSN 972077
+CONFLICT rolling back 15 items in TX 5 TSN 972077
+newer TSN 975956 when acquiring ITEM 70109 in TX 2 TSN 975955
+CONFLICT rolling back 7 items in TX 2 TSN 975955
+newer TSN 981402 when acquiring ITEM 27802 in TX 1 TSN 981400
+CONFLICT rolling back 13 items in TX 1 TSN 981400
+newer TSN 985814 when acquiring ITEM 53213 in TX 1 TSN 985812
+CONFLICT rolling back 2 items in TX 1 TSN 985812
+newer TSN 986956 when acquiring ITEM 53940 in TX 5 TSN 986955
+CONFLICT rolling back 8 items in TX 5 TSN 986955
+newer TSN 991456 when acquiring ITEM 88071 in TX 6 TSN 991455
+CONFLICT rolling back 18 items in TX 6 TSN 991455
+newer TSN 992065 when acquiring ITEM 73725 in TX 2 TSN 992064
+CONFLICT rolling back 4 items in TX 2 TSN 992064
+newer TSN 1003265 when acquiring ITEM 62354 in TX 6 TSN 1003264
+CONFLICT rolling back 12 items in TX 6 TSN 1003264
+newer TSN 1014293 when acquiring ITEM 40368 in TX 5 TSN 1014292
+CONFLICT rolling back 11 items in TX 5 TSN 1014292
+newer TSN 1014663 when acquiring ITEM 16838 in TX 4 TSN 1014662
+CONFLICT rolling back 6 items in TX 4 TSN 1014662
+newer TSN 1025173 when acquiring ITEM 10500 in TX 6 TSN 1025164
+CONFLICT rolling back 11 items in TX 6 TSN 1025164
+newer TSN 1039704 when acquiring ITEM 22927 in TX 3 TSN 1039703
+CONFLICT rolling back 14 items in TX 3 TSN 1039703
+newer TSN 1043437 when acquiring ITEM 68797 in TX 1 TSN 1043434
+CONFLICT rolling back 8 items in TX 1 TSN 1043434
+newer TSN 1048211 when acquiring ITEM 56841 in TX 4 TSN 1048210
+CONFLICT rolling back 14 items in TX 4 TSN 1048210
+newer TSN 1063236 when acquiring ITEM 27149 in TX 1 TSN 1063235
+CONFLICT rolling back 15 items in TX 1 TSN 1063235
+newer TSN 1068433 when acquiring ITEM 28742 in TX 6 TSN 1068432
+CONFLICT rolling back 8 items in TX 6 TSN 1068432
+newer TSN 1068772 when acquiring ITEM 76549 in TX 5 TSN 1068771
+CONFLICT rolling back 15 items in TX 5 TSN 1068771
+newer TSN 1068785 when acquiring ITEM 95980 in TX 5 TSN 1068784
+CONFLICT rolling back 12 items in TX 5 TSN 1068784
+newer TSN 1083613 when acquiring ITEM 92837 in TX 1 TSN 1083593
+CONFLICT rolling back 12 items in TX 1 TSN 1083593
+newer TSN 1087638 when acquiring ITEM 82212 in TX 5 TSN 1087628
+CONFLICT rolling back 16 items in TX 5 TSN 1087628
+newer TSN 1089299 when acquiring ITEM 5157 in TX 5 TSN 1089291
+CONFLICT rolling back 15 items in TX 5 TSN 1089291
+newer TSN 1093254 when acquiring ITEM 46066 in TX 6 TSN 1093252
+CONFLICT rolling back 8 items in TX 6 TSN 1093252
+newer TSN 1101808 when acquiring ITEM 85385 in TX 3 TSN 1101807
+CONFLICT rolling back 14 items in TX 3 TSN 1101807
+newer TSN 1102854 when acquiring ITEM 15743 in TX 6 TSN 1102853
+CONFLICT rolling back 17 items in TX 6 TSN 1102853
+newer TSN 1108826 when acquiring ITEM 63536 in TX 6 TSN 1108824
+CONFLICT rolling back 13 items in TX 6 TSN 1108824
+newer TSN 1121311 when acquiring ITEM 21923 in TX 2 TSN 1121289
+CONFLICT rolling back 6 items in TX 2 TSN 1121289
+newer TSN 1122534 when acquiring ITEM 80854 in TX 4 TSN 1122499
+CONFLICT rolling back 7 items in TX 4 TSN 1122499
+newer TSN 1124751 when acquiring ITEM 25964 in TX 1 TSN 1124675
+CONFLICT rolling back 8 items in TX 1 TSN 1124675
+newer TSN 1125121 when acquiring ITEM 52255 in TX 6 TSN 1125120
+CONFLICT rolling back 17 items in TX 6 TSN 1125120
+newer TSN 1131096 when acquiring ITEM 47354 in TX 5 TSN 1131095
+CONFLICT rolling back 9 items in TX 5 TSN 1131095
+newer TSN 1132366 when acquiring ITEM 97230 in TX 6 TSN 1132365
+CONFLICT rolling back 15 items in TX 6 TSN 1132365
+newer TSN 1154046 when acquiring ITEM 69848 in TX 6 TSN 1154044
+CONFLICT rolling back 8 items in TX 6 TSN 1154044
+newer TSN 1168195 when acquiring ITEM 72577 in TX 6 TSN 1168177
+CONFLICT rolling back 15 items in TX 6 TSN 1168177
+newer TSN 1190185 when acquiring ITEM 36954 in TX 1 TSN 1190173
+CONFLICT rolling back 8 items in TX 1 TSN 1190173
+newer TSN 1201039 when acquiring ITEM 42915 in TX 5 TSN 1201020
+CONFLICT rolling back 1 items in TX 5 TSN 1201020
+newer TSN 1205095 when acquiring ITEM 29971 in TX 1 TSN 1205094
+CONFLICT rolling back 11 items in TX 1 TSN 1205094
+newer TSN 1211377 when acquiring ITEM 15925 in TX 2 TSN 1211376
+CONFLICT rolling back 14 items in TX 2 TSN 1211376
+newer TSN 1246708 when acquiring ITEM 3706 in TX 2 TSN 1246707
+CONFLICT rolling back 14 items in TX 2 TSN 1246707
+newer TSN 1247459 when acquiring ITEM 90964 in TX 2 TSN 1247458
+CONFLICT rolling back 9 items in TX 2 TSN 1247458
+newer TSN 1256036 when acquiring ITEM 56729 in TX 6 TSN 1256035
+CONFLICT rolling back 7 items in TX 6 TSN 1256035
+newer TSN 1262009 when acquiring ITEM 39622 in TX 4 TSN 1262001
+CONFLICT rolling back 12 items in TX 4 TSN 1262001
+newer TSN 1263833 when acquiring ITEM 81902 in TX 5 TSN 1263830
+CONFLICT rolling back 13 items in TX 5 TSN 1263830
+newer TSN 1269389 when acquiring ITEM 96280 in TX 4 TSN 1269388
+CONFLICT rolling back 15 items in TX 4 TSN 1269388
+newer TSN 1273330 when acquiring ITEM 90865 in TX 1 TSN 1273319
+CONFLICT rolling back 16 items in TX 1 TSN 1273319
+newer TSN 1275823 when acquiring ITEM 98448 in TX 3 TSN 1275801
+CONFLICT rolling back 16 items in TX 3 TSN 1275801
+newer TSN 1277042 when acquiring ITEM 24730 in TX 6 TSN 1277041
+CONFLICT rolling back 10 items in TX 6 TSN 1277041
+newer TSN 1277429 when acquiring ITEM 65193 in TX 2 TSN 1277410
+CONFLICT rolling back 19 items in TX 2 TSN 1277410
+newer TSN 1280200 when acquiring ITEM 6750 in TX 4 TSN 1280199
+CONFLICT rolling back 9 items in TX 4 TSN 1280199
+newer TSN 1282312 when acquiring ITEM 66771 in TX 6 TSN 1282311
+CONFLICT rolling back 2 items in TX 6 TSN 1282311
+newer TSN 1290899 when acquiring ITEM 88867 in TX 5 TSN 1290898
+CONFLICT rolling back 10 items in TX 5 TSN 1290898
+newer TSN 1294719 when acquiring ITEM 44782 in TX 5 TSN 1294718
+CONFLICT rolling back 13 items in TX 5 TSN 1294718
+newer TSN 1295182 when acquiring ITEM 32404 in TX 6 TSN 1295180
+CONFLICT rolling back 12 items in TX 6 TSN 1295180
+newer TSN 1295412 when acquiring ITEM 15571 in TX 3 TSN 1295404
+CONFLICT rolling back 16 items in TX 3 TSN 1295404
+newer TSN 1303525 when acquiring ITEM 65494 in TX 4 TSN 1303524
+CONFLICT rolling back 9 items in TX 4 TSN 1303524
+newer TSN 1306373 when acquiring ITEM 96483 in TX 5 TSN 1306372
+CONFLICT rolling back 16 items in TX 5 TSN 1306372
+newer TSN 1306990 when acquiring ITEM 12890 in TX 3 TSN 1306989
+CONFLICT rolling back 11 items in TX 3 TSN 1306989
+newer TSN 1315614 when acquiring ITEM 68403 in TX 2 TSN 1315613
+CONFLICT rolling back 4 items in TX 2 TSN 1315613
+newer TSN 1324675 when acquiring ITEM 54051 in TX 4 TSN 1324674
+CONFLICT rolling back 10 items in TX 4 TSN 1324674
+newer TSN 1344420 when acquiring ITEM 45100 in TX 4 TSN 1344408
+CONFLICT rolling back 11 items in TX 4 TSN 1344408
+newer TSN 1360175 when acquiring ITEM 23505 in TX 3 TSN 1360174
+CONFLICT rolling back 10 items in TX 3 TSN 1360174
+newer TSN 1362721 when acquiring ITEM 48211 in TX 2 TSN 1362720
+CONFLICT rolling back 18 items in TX 2 TSN 1362720
+newer TSN 1365442 when acquiring ITEM 90527 in TX 6 TSN 1365435
+CONFLICT rolling back 7 items in TX 6 TSN 1365435
+newer TSN 1366364 when acquiring ITEM 83886 in TX 1 TSN 1366363
+CONFLICT rolling back 14 items in TX 1 TSN 1366363
+newer TSN 1371131 when acquiring ITEM 79033 in TX 6 TSN 1371130
+CONFLICT rolling back 12 items in TX 6 TSN 1371130
+newer TSN 1375949 when acquiring ITEM 28000 in TX 5 TSN 1375948
+CONFLICT rolling back 12 items in TX 5 TSN 1375948
+newer TSN 1383763 when acquiring ITEM 59099 in TX 1 TSN 1383743
+CONFLICT rolling back 8 items in TX 1 TSN 1383743
+newer TSN 1388283 when acquiring ITEM 84870 in TX 3 TSN 1388282
+CONFLICT rolling back 10 items in TX 3 TSN 1388282
+newer TSN 1397329 when acquiring ITEM 31375 in TX 1 TSN 1397328
+CONFLICT rolling back 14 items in TX 1 TSN 1397328
+newer TSN 1402928 when acquiring ITEM 78441 in TX 2 TSN 1402917
+CONFLICT rolling back 10 items in TX 2 TSN 1402917
+newer TSN 1403552 when acquiring ITEM 81303 in TX 5 TSN 1403523
+CONFLICT rolling back 6 items in TX 5 TSN 1403523
+newer TSN 1407147 when acquiring ITEM 67854 in TX 6 TSN 1407142
+CONFLICT rolling back 15 items in TX 6 TSN 1407142
+newer TSN 1407822 when acquiring ITEM 46829 in TX 2 TSN 1407821
+CONFLICT rolling back 12 items in TX 2 TSN 1407821
+newer TSN 1422133 when acquiring ITEM 90378 in TX 1 TSN 1422132
+CONFLICT rolling back 9 items in TX 1 TSN 1422132
+newer TSN 1422162 when acquiring ITEM 33760 in TX 3 TSN 1422161
+CONFLICT rolling back 18 items in TX 3 TSN 1422161
+newer TSN 1424002 when acquiring ITEM 58231 in TX 4 TSN 1424001
+CONFLICT rolling back 7 items in TX 4 TSN 1424001
+newer TSN 1426192 when acquiring ITEM 53701 in TX 3 TSN 1426190
+CONFLICT rolling back 17 items in TX 3 TSN 1426190
+newer TSN 1429308 when acquiring ITEM 41034 in TX 2 TSN 1429307
+CONFLICT rolling back 16 items in TX 2 TSN 1429307
+newer TSN 1436144 when acquiring ITEM 79502 in TX 2 TSN 1436142
+CONFLICT rolling back 10 items in TX 2 TSN 1436142
+newer TSN 1436530 when acquiring ITEM 97967 in TX 4 TSN 1436528
+CONFLICT rolling back 17 items in TX 4 TSN 1436528
+newer TSN 1444177 when acquiring ITEM 53060 in TX 5 TSN 1444176
+CONFLICT rolling back 9 items in TX 5 TSN 1444176
+newer TSN 1446402 when acquiring ITEM 90456 in TX 5 TSN 1446400
+CONFLICT rolling back 4 items in TX 5 TSN 1446400
+newer TSN 1447695 when acquiring ITEM 41510 in TX 4 TSN 1447692
+CONFLICT rolling back 3 items in TX 4 TSN 1447692
+newer TSN 1449709 when acquiring ITEM 58112 in TX 6 TSN 1449708
+CONFLICT rolling back 15 items in TX 6 TSN 1449708
+newer TSN 1451178 when acquiring ITEM 7614 in TX 3 TSN 1451177
+CONFLICT rolling back 12 items in TX 3 TSN 1451177
+newer TSN 1456198 when acquiring ITEM 62727 in TX 4 TSN 1456197
+CONFLICT rolling back 16 items in TX 4 TSN 1456197
+newer TSN 1456893 when acquiring ITEM 3278 in TX 5 TSN 1456892
+CONFLICT rolling back 13 items in TX 5 TSN 1456892
+newer TSN 1457183 when acquiring ITEM 3400 in TX 3 TSN 1457182
+CONFLICT rolling back 12 items in TX 3 TSN 1457182
+newer TSN 1464827 when acquiring ITEM 48213 in TX 4 TSN 1464826
+CONFLICT rolling back 12 items in TX 4 TSN 1464826
+newer TSN 1465415 when acquiring ITEM 31393 in TX 1 TSN 1465412
+CONFLICT rolling back 14 items in TX 1 TSN 1465412
+newer TSN 1469061 when acquiring ITEM 69348 in TX 5 TSN 1469060
+CONFLICT rolling back 6 items in TX 5 TSN 1469060
+newer TSN 1470588 when acquiring ITEM 3810 in TX 1 TSN 1470578
+CONFLICT rolling back 7 items in TX 1 TSN 1470578
+newer TSN 1488034 when acquiring ITEM 22261 in TX 5 TSN 1487392
+CONFLICT rolling back 9 items in TX 5 TSN 1487392
+newer TSN 1489055 when acquiring ITEM 10899 in TX 4 TSN 1489054
+CONFLICT rolling back 15 items in TX 4 TSN 1489054
+newer TSN 1490136 when acquiring ITEM 24400 in TX 5 TSN 1489950
+CONFLICT rolling back 10 items in TX 5 TSN 1489950
+newer TSN 1490585 when acquiring ITEM 4789 in TX 2 TSN 1490199
+CONFLICT rolling back 7 items in TX 2 TSN 1490199
+newer TSN 1494190 when acquiring ITEM 77790 in TX 4 TSN 1493815
+CONFLICT rolling back 5 items in TX 4 TSN 1493815
+newer TSN 1496867 when acquiring ITEM 53094 in TX 1 TSN 1494875
+CONFLICT rolling back 2 items in TX 1 TSN 1494875
+newer TSN 1503497 when acquiring ITEM 87437 in TX 4 TSN 1503496
+CONFLICT rolling back 9 items in TX 4 TSN 1503496
+newer TSN 1522471 when acquiring ITEM 64759 in TX 3 TSN 1522470
+CONFLICT rolling back 9 items in TX 3 TSN 1522470
+newer TSN 1527945 when acquiring ITEM 51980 in TX 3 TSN 1527944
+CONFLICT rolling back 8 items in TX 3 TSN 1527944
+newer TSN 1528974 when acquiring ITEM 38828 in TX 3 TSN 1528973
+CONFLICT rolling back 14 items in TX 3 TSN 1528973
+newer TSN 1529828 when acquiring ITEM 76634 in TX 5 TSN 1529825
+CONFLICT rolling back 6 items in TX 5 TSN 1529825
+newer TSN 1539752 when acquiring ITEM 89353 in TX 2 TSN 1539751
+CONFLICT rolling back 6 items in TX 2 TSN 1539751
+newer TSN 1540135 when acquiring ITEM 34382 in TX 6 TSN 1540118
+CONFLICT rolling back 20 items in TX 6 TSN 1540118
+newer TSN 1542138 when acquiring ITEM 446 in TX 1 TSN 1542126
+CONFLICT rolling back 18 items in TX 1 TSN 1542126
+newer TSN 1544442 when acquiring ITEM 86504 in TX 1 TSN 1544427
+CONFLICT rolling back 12 items in TX 1 TSN 1544427
+newer TSN 1547211 when acquiring ITEM 69054 in TX 6 TSN 1547210
+CONFLICT rolling back 14 items in TX 6 TSN 1547210
+newer TSN 1547233 when acquiring ITEM 43457 in TX 6 TSN 1547220
+CONFLICT rolling back 9 items in TX 6 TSN 1547220
+newer TSN 1559128 when acquiring ITEM 93571 in TX 3 TSN 1559117
+CONFLICT rolling back 14 items in TX 3 TSN 1559117
+newer TSN 1560662 when acquiring ITEM 14253 in TX 5 TSN 1560661
+CONFLICT rolling back 10 items in TX 5 TSN 1560661
+newer TSN 1567876 when acquiring ITEM 71292 in TX 3 TSN 1567875
+CONFLICT rolling back 6 items in TX 3 TSN 1567875
+newer TSN 1570149 when acquiring ITEM 25860 in TX 3 TSN 1570148
+CONFLICT rolling back 9 items in TX 3 TSN 1570148
+newer TSN 1574963 when acquiring ITEM 73070 in TX 5 TSN 1574962
+CONFLICT rolling back 10 items in TX 5 TSN 1574962
+newer TSN 1588956 when acquiring ITEM 80027 in TX 2 TSN 1588955
+CONFLICT rolling back 12 items in TX 2 TSN 1588955
+newer TSN 1592861 when acquiring ITEM 37475 in TX 4 TSN 1592844
+CONFLICT rolling back 11 items in TX 4 TSN 1592844
+newer TSN 1606217 when acquiring ITEM 56170 in TX 6 TSN 1606216
+CONFLICT rolling back 15 items in TX 6 TSN 1606216
+newer TSN 1609953 when acquiring ITEM 23232 in TX 6 TSN 1609952
+CONFLICT rolling back 17 items in TX 6 TSN 1609952
+newer TSN 1618114 when acquiring ITEM 58808 in TX 6 TSN 1618110
+CONFLICT rolling back 16 items in TX 6 TSN 1618110
+newer TSN 1618643 when acquiring ITEM 41192 in TX 1 TSN 1618642
+CONFLICT rolling back 15 items in TX 1 TSN 1618642
+newer TSN 1619030 when acquiring ITEM 25886 in TX 1 TSN 1619029
+CONFLICT rolling back 14 items in TX 1 TSN 1619029
+newer TSN 1623845 when acquiring ITEM 95107 in TX 4 TSN 1623843
+CONFLICT rolling back 19 items in TX 4 TSN 1623843
+newer TSN 1631253 when acquiring ITEM 78504 in TX 1 TSN 1631244
+CONFLICT rolling back 11 items in TX 1 TSN 1631244
+newer TSN 1632422 when acquiring ITEM 80744 in TX 2 TSN 1632409
+CONFLICT rolling back 11 items in TX 2 TSN 1632409
+newer TSN 1635810 when acquiring ITEM 32461 in TX 5 TSN 1635803
+CONFLICT rolling back 12 items in TX 5 TSN 1635803
+newer TSN 1635897 when acquiring ITEM 23512 in TX 4 TSN 1635896
+CONFLICT rolling back 13 items in TX 4 TSN 1635896
+newer TSN 1637032 when acquiring ITEM 8798 in TX 5 TSN 1637031
+CONFLICT rolling back 12 items in TX 5 TSN 1637031
+newer TSN 1638699 when acquiring ITEM 63203 in TX 5 TSN 1638679
+CONFLICT rolling back 15 items in TX 5 TSN 1638679
+newer TSN 1640662 when acquiring ITEM 11757 in TX 4 TSN 1640661
+CONFLICT rolling back 8 items in TX 4 TSN 1640661
+newer TSN 1646463 when acquiring ITEM 29219 in TX 3 TSN 1646462
+CONFLICT rolling back 10 items in TX 3 TSN 1646462
+newer TSN 1646742 when acquiring ITEM 13781 in TX 5 TSN 1646613
+CONFLICT rolling back 10 items in TX 5 TSN 1646613
+newer TSN 1652662 when acquiring ITEM 6533 in TX 5 TSN 1652660
+CONFLICT rolling back 7 items in TX 5 TSN 1652660
+newer TSN 1656859 when acquiring ITEM 12047 in TX 3 TSN 1656858
+CONFLICT rolling back 8 items in TX 3 TSN 1656858
+newer TSN 1658905 when acquiring ITEM 32506 in TX 6 TSN 1658885
+CONFLICT rolling back 11 items in TX 6 TSN 1658885
+newer TSN 1659294 when acquiring ITEM 70582 in TX 2 TSN 1659276
+CONFLICT rolling back 6 items in TX 2 TSN 1659276
+newer TSN 1660298 when acquiring ITEM 81675 in TX 5 TSN 1660297
+CONFLICT rolling back 17 items in TX 5 TSN 1660297
+newer TSN 1661399 when acquiring ITEM 70862 in TX 2 TSN 1661398
+CONFLICT rolling back 6 items in TX 2 TSN 1661398
+newer TSN 1662289 when acquiring ITEM 74493 in TX 6 TSN 1662281
+CONFLICT rolling back 14 items in TX 6 TSN 1662281
+newer TSN 1689741 when acquiring ITEM 42945 in TX 2 TSN 1689740
+CONFLICT rolling back 17 items in TX 2 TSN 1689740
+newer TSN 1691669 when acquiring ITEM 20687 in TX 3 TSN 1691660
+CONFLICT rolling back 8 items in TX 3 TSN 1691660
+newer TSN 1695259 when acquiring ITEM 33233 in TX 1 TSN 1695247
+CONFLICT rolling back 8 items in TX 1 TSN 1695247
+newer TSN 1698082 when acquiring ITEM 4986 in TX 2 TSN 1698081
+CONFLICT rolling back 7 items in TX 2 TSN 1698081
+newer TSN 1734533 when acquiring ITEM 15228 in TX 4 TSN 1734529
+CONFLICT rolling back 9 items in TX 4 TSN 1734529
+newer TSN 1739268 when acquiring ITEM 11942 in TX 6 TSN 1739267
+CONFLICT rolling back 14 items in TX 6 TSN 1739267
+newer TSN 1740985 when acquiring ITEM 73946 in TX 6 TSN 1740983
+CONFLICT rolling back 13 items in TX 6 TSN 1740983
+newer TSN 1742944 when acquiring ITEM 11614 in TX 4 TSN 1742930
+CONFLICT rolling back 13 items in TX 4 TSN 1742930
+newer TSN 1749550 when acquiring ITEM 49802 in TX 6 TSN 1749549
+CONFLICT rolling back 10 items in TX 6 TSN 1749549
+newer TSN 1758993 when acquiring ITEM 83808 in TX 3 TSN 1758992
+CONFLICT rolling back 9 items in TX 3 TSN 1758992
+newer TSN 1767792 when acquiring ITEM 35596 in TX 1 TSN 1767790
+CONFLICT rolling back 16 items in TX 1 TSN 1767790
+newer TSN 1769981 when acquiring ITEM 70213 in TX 2 TSN 1769980
+CONFLICT rolling back 11 items in TX 2 TSN 1769980
+newer TSN 1775363 when acquiring ITEM 35868 in TX 2 TSN 1775362
+CONFLICT rolling back 8 items in TX 2 TSN 1775362
+newer TSN 1776478 when acquiring ITEM 7733 in TX 2 TSN 1776450
+CONFLICT rolling back 8 items in TX 2 TSN 1776450
+newer TSN 1784631 when acquiring ITEM 30337 in TX 6 TSN 1784630
+CONFLICT rolling back 6 items in TX 6 TSN 1784630
+newer TSN 1784976 when acquiring ITEM 97689 in TX 2 TSN 1784975
+CONFLICT rolling back 5 items in TX 2 TSN 1784975
+newer TSN 1795764 when acquiring ITEM 67312 in TX 1 TSN 1795763
+CONFLICT rolling back 14 items in TX 1 TSN 1795763
+newer TSN 1799832 when acquiring ITEM 70294 in TX 5 TSN 1799809
+CONFLICT rolling back 8 items in TX 5 TSN 1799809
+newer TSN 1803842 when acquiring ITEM 780 in TX 6 TSN 1803841
+CONFLICT rolling back 14 items in TX 6 TSN 1803841
+newer TSN 1804206 when acquiring ITEM 43248 in TX 3 TSN 1804205
+CONFLICT rolling back 14 items in TX 3 TSN 1804205
+newer TSN 1813790 when acquiring ITEM 89115 in TX 3 TSN 1813789
+CONFLICT rolling back 10 items in TX 3 TSN 1813789
+newer TSN 1816159 when acquiring ITEM 87790 in TX 1 TSN 1816158
+CONFLICT rolling back 11 items in TX 1 TSN 1816158
+newer TSN 1820457 when acquiring ITEM 11049 in TX 2 TSN 1820456
+CONFLICT rolling back 15 items in TX 2 TSN 1820456
+newer TSN 1833425 when acquiring ITEM 57341 in TX 4 TSN 1833411
+CONFLICT rolling back 9 items in TX 4 TSN 1833411
+newer TSN 1850535 when acquiring ITEM 46303 in TX 1 TSN 1850534
+CONFLICT rolling back 10 items in TX 1 TSN 1850534
+newer TSN 1850672 when acquiring ITEM 67653 in TX 3 TSN 1850664
+CONFLICT rolling back 5 items in TX 3 TSN 1850664
+newer TSN 1863528 when acquiring ITEM 31363 in TX 4 TSN 1863513
+CONFLICT rolling back 11 items in TX 4 TSN 1863513
+newer TSN 1864307 when acquiring ITEM 47903 in TX 1 TSN 1864306
+CONFLICT rolling back 13 items in TX 1 TSN 1864306
+newer TSN 1868559 when acquiring ITEM 91800 in TX 5 TSN 1868557
+CONFLICT rolling back 10 items in TX 5 TSN 1868557
+newer TSN 1869927 when acquiring ITEM 1706 in TX 5 TSN 1869926
+CONFLICT rolling back 14 items in TX 5 TSN 1869926
+newer TSN 1873395 when acquiring ITEM 70753 in TX 4 TSN 1873375
+CONFLICT rolling back 15 items in TX 4 TSN 1873375
+newer TSN 1880958 when acquiring ITEM 37858 in TX 4 TSN 1880952
+CONFLICT rolling back 9 items in TX 4 TSN 1880952
+newer TSN 1881891 when acquiring ITEM 53093 in TX 4 TSN 1881873
+CONFLICT rolling back 13 items in TX 4 TSN 1881873
+newer TSN 1883948 when acquiring ITEM 41795 in TX 4 TSN 1883947
+CONFLICT rolling back 10 items in TX 4 TSN 1883947
+newer TSN 1884698 when acquiring ITEM 14796 in TX 5 TSN 1884697
+CONFLICT rolling back 14 items in TX 5 TSN 1884697
+newer TSN 1897937 when acquiring ITEM 31057 in TX 4 TSN 1897928
+CONFLICT rolling back 15 items in TX 4 TSN 1897928
+newer TSN 1899903 when acquiring ITEM 14049 in TX 3 TSN 1899899
+CONFLICT rolling back 17 items in TX 3 TSN 1899899
+newer TSN 1915160 when acquiring ITEM 58530 in TX 2 TSN 1915146
+CONFLICT rolling back 18 items in TX 2 TSN 1915146
+newer TSN 1922142 when acquiring ITEM 58790 in TX 4 TSN 1922141
+CONFLICT rolling back 12 items in TX 4 TSN 1922141
+newer TSN 1932441 when acquiring ITEM 52699 in TX 2 TSN 1932440
+CONFLICT rolling back 7 items in TX 2 TSN 1932440
+newer TSN 1940544 when acquiring ITEM 57291 in TX 1 TSN 1940543
+CONFLICT rolling back 17 items in TX 1 TSN 1940543
+newer TSN 1941269 when acquiring ITEM 33730 in TX 4 TSN 1941267
+CONFLICT rolling back 14 items in TX 4 TSN 1941267
+newer TSN 1941597 when acquiring ITEM 10106 in TX 2 TSN 1941591
+CONFLICT rolling back 15 items in TX 2 TSN 1941591
+newer TSN 1948868 when acquiring ITEM 97863 in TX 2 TSN 1948867
+CONFLICT rolling back 18 items in TX 2 TSN 1948867
+newer TSN 1950494 when acquiring ITEM 98227 in TX 5 TSN 1950487
+CONFLICT rolling back 11 items in TX 5 TSN 1950487
+newer TSN 1959166 when acquiring ITEM 6216 in TX 5 TSN 1959140
+CONFLICT rolling back 6 items in TX 5 TSN 1959140
+newer TSN 1961660 when acquiring ITEM 10072 in TX 4 TSN 1961659
+CONFLICT rolling back 12 items in TX 4 TSN 1961659
+newer TSN 1969305 when acquiring ITEM 50243 in TX 5 TSN 1969304
+CONFLICT rolling back 15 items in TX 5 TSN 1969304
+newer TSN 1969552 when acquiring ITEM 91862 in TX 1 TSN 1969551
+CONFLICT rolling back 16 items in TX 1 TSN 1969551
+newer TSN 1970705 when acquiring ITEM 46411 in TX 4 TSN 1970704
+CONFLICT rolling back 6 items in TX 4 TSN 1970704
+newer TSN 1978500 when acquiring ITEM 31375 in TX 1 TSN 1978489
+CONFLICT rolling back 4 items in TX 1 TSN 1978489
+newer TSN 1979616 when acquiring ITEM 6651 in TX 4 TSN 1979607
+CONFLICT rolling back 10 items in TX 4 TSN 1979607
+newer TSN 1985601 when acquiring ITEM 20843 in TX 1 TSN 1985600
+CONFLICT rolling back 6 items in TX 1 TSN 1985600
+newer TSN 1986151 when acquiring ITEM 96740 in TX 5 TSN 1986145
+CONFLICT rolling back 9 items in TX 5 TSN 1986145
+newer TSN 1987570 when acquiring ITEM 47021 in TX 1 TSN 1987569
+CONFLICT rolling back 5 items in TX 1 TSN 1987569
+newer TSN 1991177 when acquiring ITEM 20749 in TX 1 TSN 1991166
+CONFLICT rolling back 8 items in TX 1 TSN 1991166
+newer TSN 2026988 when acquiring ITEM 22789 in TX 5 TSN 2026987
+CONFLICT rolling back 9 items in TX 5 TSN 2026987
+newer TSN 2037936 when acquiring ITEM 72835 in TX 1 TSN 2037928
+CONFLICT rolling back 17 items in TX 1 TSN 2037928
+newer TSN 2047290 when acquiring ITEM 30012 in TX 1 TSN 2047271
+CONFLICT rolling back 6 items in TX 1 TSN 2047271
+newer TSN 2053048 when acquiring ITEM 74456 in TX 1 TSN 2053044
+CONFLICT rolling back 16 items in TX 1 TSN 2053044
+newer TSN 2055096 when acquiring ITEM 26356 in TX 1 TSN 2055076
+CONFLICT rolling back 9 items in TX 1 TSN 2055076
+newer TSN 2064317 when acquiring ITEM 85980 in TX 4 TSN 2064315
+CONFLICT rolling back 15 items in TX 4 TSN 2064315
+newer TSN 2069069 when acquiring ITEM 61072 in TX 5 TSN 2069068
+CONFLICT rolling back 8 items in TX 5 TSN 2069068
+newer TSN 2070104 when acquiring ITEM 44936 in TX 4 TSN 2070103
+CONFLICT rolling back 10 items in TX 4 TSN 2070103
+newer TSN 2070441 when acquiring ITEM 98815 in TX 2 TSN 2070416
+CONFLICT rolling back 11 items in TX 2 TSN 2070416
+newer TSN 2072818 when acquiring ITEM 92707 in TX 6 TSN 2072808
+CONFLICT rolling back 17 items in TX 6 TSN 2072808
+newer TSN 2073291 when acquiring ITEM 57402 in TX 2 TSN 2073290
+CONFLICT rolling back 9 items in TX 2 TSN 2073290
+newer TSN 2074844 when acquiring ITEM 16004 in TX 3 TSN 2074843
+CONFLICT rolling back 6 items in TX 3 TSN 2074843
+newer TSN 2079184 when acquiring ITEM 84762 in TX 2 TSN 2079159
+CONFLICT rolling back 8 items in TX 2 TSN 2079159
+newer TSN 2101414 when acquiring ITEM 52872 in TX 6 TSN 2101413
+CONFLICT rolling back 9 items in TX 6 TSN 2101413
+newer TSN 2102990 when acquiring ITEM 9581 in TX 6 TSN 2102989
+CONFLICT rolling back 10 items in TX 6 TSN 2102989
+newer TSN 2111315 when acquiring ITEM 44975 in TX 2 TSN 2111314
+CONFLICT rolling back 4 items in TX 2 TSN 2111314
+newer TSN 2114028 when acquiring ITEM 3520 in TX 3 TSN 2114027
+CONFLICT rolling back 8 items in TX 3 TSN 2114027
+newer TSN 2117151 when acquiring ITEM 11188 in TX 5 TSN 2117150
+CONFLICT rolling back 13 items in TX 5 TSN 2117150
+newer TSN 2119128 when acquiring ITEM 39856 in TX 1 TSN 2119110
+CONFLICT rolling back 7 items in TX 1 TSN 2119110
+newer TSN 2131760 when acquiring ITEM 46553 in TX 5 TSN 2131759
+CONFLICT rolling back 7 items in TX 5 TSN 2131759
+newer TSN 2134509 when acquiring ITEM 65095 in TX 5 TSN 2134508
+CONFLICT rolling back 7 items in TX 5 TSN 2134508
+newer TSN 2136665 when acquiring ITEM 82849 in TX 6 TSN 2136664
+CONFLICT rolling back 5 items in TX 6 TSN 2136664
+newer TSN 2139389 when acquiring ITEM 37413 in TX 4 TSN 2139388
+CONFLICT rolling back 5 items in TX 4 TSN 2139388
+newer TSN 2152130 when acquiring ITEM 17661 in TX 4 TSN 2152129
+CONFLICT rolling back 6 items in TX 4 TSN 2152129
+newer TSN 2157375 when acquiring ITEM 44017 in TX 2 TSN 2157364
+CONFLICT rolling back 15 items in TX 2 TSN 2157364
+newer TSN 2160121 when acquiring ITEM 31702 in TX 6 TSN 2160120
+CONFLICT rolling back 4 items in TX 6 TSN 2160120
+newer TSN 2162839 when acquiring ITEM 51804 in TX 2 TSN 2162838
+CONFLICT rolling back 14 items in TX 2 TSN 2162838
+newer TSN 2163433 when acquiring ITEM 63344 in TX 5 TSN 2163432
+CONFLICT rolling back 8 items in TX 5 TSN 2163432
+newer TSN 2164482 when acquiring ITEM 78486 in TX 3 TSN 2164474
+CONFLICT rolling back 11 items in TX 3 TSN 2164474
+newer TSN 2168665 when acquiring ITEM 18179 in TX 2 TSN 2168663
+CONFLICT rolling back 18 items in TX 2 TSN 2168663
+newer TSN 2169234 when acquiring ITEM 14015 in TX 5 TSN 2169233
+CONFLICT rolling back 10 items in TX 5 TSN 2169233
+newer TSN 2169504 when acquiring ITEM 30951 in TX 2 TSN 2169503
+CONFLICT rolling back 11 items in TX 2 TSN 2169503
+newer TSN 2172636 when acquiring ITEM 56827 in TX 6 TSN 2172622
+CONFLICT rolling back 11 items in TX 6 TSN 2172622
+newer TSN 2178908 when acquiring ITEM 82055 in TX 4 TSN 2178907
+CONFLICT rolling back 15 items in TX 4 TSN 2178907
+newer TSN 2179360 when acquiring ITEM 40844 in TX 1 TSN 2179349
+CONFLICT rolling back 5 items in TX 1 TSN 2179349
+newer TSN 2188655 when acquiring ITEM 66650 in TX 1 TSN 2188654
+CONFLICT rolling back 10 items in TX 1 TSN 2188654
+newer TSN 2208302 when acquiring ITEM 71168 in TX 1 TSN 2208301
+CONFLICT rolling back 10 items in TX 1 TSN 2208301
+newer TSN 2210306 when acquiring ITEM 84669 in TX 6 TSN 2210305
+CONFLICT rolling back 10 items in TX 6 TSN 2210305
+newer TSN 2212465 when acquiring ITEM 14911 in TX 4 TSN 2212463
+CONFLICT rolling back 11 items in TX 4 TSN 2212463
+newer TSN 2221257 when acquiring ITEM 65977 in TX 6 TSN 2221233
+CONFLICT rolling back 6 items in TX 6 TSN 2221233
+newer TSN 2222158 when acquiring ITEM 37541 in TX 4 TSN 2222157
+CONFLICT rolling back 12 items in TX 4 TSN 2222157
+newer TSN 2232778 when acquiring ITEM 80108 in TX 5 TSN 2232749
+CONFLICT rolling back 19 items in TX 5 TSN 2232749
+newer TSN 2240550 when acquiring ITEM 2021 in TX 6 TSN 2240525
+CONFLICT rolling back 5 items in TX 6 TSN 2240525
+newer TSN 2245242 when acquiring ITEM 4983 in TX 5 TSN 2245241
+CONFLICT rolling back 12 items in TX 5 TSN 2245241
+newer TSN 2246930 when acquiring ITEM 75514 in TX 5 TSN 2246929
+CONFLICT rolling back 8 items in TX 5 TSN 2246929
+newer TSN 2248636 when acquiring ITEM 41888 in TX 5 TSN 2248635
+CONFLICT rolling back 7 items in TX 5 TSN 2248635
+newer TSN 2255783 when acquiring ITEM 84875 in TX 2 TSN 2255770
+CONFLICT rolling back 7 items in TX 2 TSN 2255770
+newer TSN 2256174 when acquiring ITEM 85871 in TX 4 TSN 2256172
+CONFLICT rolling back 12 items in TX 4 TSN 2256172
+newer TSN 2258307 when acquiring ITEM 72889 in TX 2 TSN 2258306
+CONFLICT rolling back 13 items in TX 2 TSN 2258306
+newer TSN 2271119 when acquiring ITEM 70783 in TX 4 TSN 2271118
+CONFLICT rolling back 1 items in TX 4 TSN 2271118
+newer TSN 2271814 when acquiring ITEM 14110 in TX 5 TSN 2271813
+CONFLICT rolling back 11 items in TX 5 TSN 2271813
+newer TSN 2272225 when acquiring ITEM 3930 in TX 3 TSN 2272224
+CONFLICT rolling back 12 items in TX 3 TSN 2272224
+newer TSN 2280350 when acquiring ITEM 51287 in TX 6 TSN 2280345
+CONFLICT rolling back 3 items in TX 6 TSN 2280345
+newer TSN 2281623 when acquiring ITEM 34398 in TX 6 TSN 2281616
+CONFLICT rolling back 11 items in TX 6 TSN 2281616
+newer TSN 2281651 when acquiring ITEM 84981 in TX 2 TSN 2281648
+CONFLICT rolling back 12 items in TX 2 TSN 2281648
+newer TSN 2281782 when acquiring ITEM 56251 in TX 4 TSN 2281781
+CONFLICT rolling back 7 items in TX 4 TSN 2281781
+newer TSN 2283169 when acquiring ITEM 93128 in TX 1 TSN 2283168
+CONFLICT rolling back 13 items in TX 1 TSN 2283168
+newer TSN 2286697 when acquiring ITEM 38848 in TX 5 TSN 2286690
+CONFLICT rolling back 14 items in TX 5 TSN 2286690
+newer TSN 2296615 when acquiring ITEM 48997 in TX 5 TSN 2296603
+CONFLICT rolling back 17 items in TX 5 TSN 2296603
+newer TSN 2299456 when acquiring ITEM 24278 in TX 3 TSN 2299437
+CONFLICT rolling back 14 items in TX 3 TSN 2299437
+newer TSN 2300155 when acquiring ITEM 29439 in TX 2 TSN 2300154
+CONFLICT rolling back 17 items in TX 2 TSN 2300154
+newer TSN 2303618 when acquiring ITEM 37186 in TX 1 TSN 2303597
+CONFLICT rolling back 11 items in TX 1 TSN 2303597
+newer TSN 2308879 when acquiring ITEM 22285 in TX 1 TSN 2308865
+CONFLICT rolling back 15 items in TX 1 TSN 2308865
+newer TSN 2310424 when acquiring ITEM 86034 in TX 6 TSN 2310422
+CONFLICT rolling back 11 items in TX 6 TSN 2310422
+newer TSN 2311479 when acquiring ITEM 70383 in TX 6 TSN 2311478
+CONFLICT rolling back 10 items in TX 6 TSN 2311478
+newer TSN 2315444 when acquiring ITEM 19165 in TX 1 TSN 2315427
+CONFLICT rolling back 7 items in TX 1 TSN 2315427
+newer TSN 2323725 when acquiring ITEM 47284 in TX 4 TSN 2323724
+CONFLICT rolling back 6 items in TX 4 TSN 2323724
+newer TSN 2323812 when acquiring ITEM 5313 in TX 5 TSN 2323810
+CONFLICT rolling back 16 items in TX 5 TSN 2323810
+newer TSN 2325146 when acquiring ITEM 4078 in TX 4 TSN 2325144
+CONFLICT rolling back 6 items in TX 4 TSN 2325144
+newer TSN 2329684 when acquiring ITEM 63926 in TX 6 TSN 2329682
+CONFLICT rolling back 14 items in TX 6 TSN 2329682
+newer TSN 2340224 when acquiring ITEM 26752 in TX 2 TSN 2340212
+CONFLICT rolling back 17 items in TX 2 TSN 2340212
+newer TSN 2349504 when acquiring ITEM 27908 in TX 6 TSN 2349503
+CONFLICT rolling back 16 items in TX 6 TSN 2349503
+newer TSN 2367162 when acquiring ITEM 99945 in TX 4 TSN 2367160
+CONFLICT rolling back 11 items in TX 4 TSN 2367160
+newer TSN 2368182 when acquiring ITEM 82611 in TX 2 TSN 2368179
+CONFLICT rolling back 9 items in TX 2 TSN 2368179
+newer TSN 2372601 when acquiring ITEM 87332 in TX 1 TSN 2372600
+CONFLICT rolling back 13 items in TX 1 TSN 2372600
+newer TSN 2374074 when acquiring ITEM 75457 in TX 1 TSN 2374068
+CONFLICT rolling back 4 items in TX 1 TSN 2374068
+newer TSN 2384539 when acquiring ITEM 34147 in TX 2 TSN 2384533
+CONFLICT rolling back 5 items in TX 2 TSN 2384533
+newer TSN 2403587 when acquiring ITEM 37876 in TX 6 TSN 2403534
+CONFLICT rolling back 6 items in TX 6 TSN 2403534
+newer TSN 2406550 when acquiring ITEM 21542 in TX 4 TSN 2406546
+CONFLICT rolling back 6 items in TX 4 TSN 2406546
+newer TSN 2408909 when acquiring ITEM 85629 in TX 5 TSN 2408908
+CONFLICT rolling back 10 items in TX 5 TSN 2408908
+newer TSN 2416969 when acquiring ITEM 1491 in TX 5 TSN 2416946
+CONFLICT rolling back 14 items in TX 5 TSN 2416946
+newer TSN 2420301 when acquiring ITEM 49720 in TX 3 TSN 2420300
+CONFLICT rolling back 8 items in TX 3 TSN 2420300
+newer TSN 2429283 when acquiring ITEM 16269 in TX 3 TSN 2429277
+CONFLICT rolling back 9 items in TX 3 TSN 2429277
+newer TSN 2429299 when acquiring ITEM 15835 in TX 3 TSN 2429298
+CONFLICT rolling back 10 items in TX 3 TSN 2429298
+newer TSN 2430795 when acquiring ITEM 9286 in TX 5 TSN 2430770
+CONFLICT rolling back 7 items in TX 5 TSN 2430770
+newer TSN 2435067 when acquiring ITEM 3335 in TX 6 TSN 2435066
+CONFLICT rolling back 8 items in TX 6 TSN 2435066
+newer TSN 2435345 when acquiring ITEM 87461 in TX 1 TSN 2435344
+CONFLICT rolling back 11 items in TX 1 TSN 2435344
+newer TSN 2446195 when acquiring ITEM 86273 in TX 1 TSN 2446194
+CONFLICT rolling back 15 items in TX 1 TSN 2446194
+newer TSN 2454021 when acquiring ITEM 91208 in TX 6 TSN 2454020
+CONFLICT rolling back 5 items in TX 6 TSN 2454020
+newer TSN 2454635 when acquiring ITEM 18067 in TX 1 TSN 2454634
+CONFLICT rolling back 15 items in TX 1 TSN 2454634
+newer TSN 2458960 when acquiring ITEM 34885 in TX 5 TSN 2458959
+CONFLICT rolling back 8 items in TX 5 TSN 2458959
+newer TSN 2463589 when acquiring ITEM 72649 in TX 5 TSN 2463588
+CONFLICT rolling back 15 items in TX 5 TSN 2463588
+newer TSN 2468699 when acquiring ITEM 11049 in TX 6 TSN 2468681
+CONFLICT rolling back 3 items in TX 6 TSN 2468681
+newer TSN 2474468 when acquiring ITEM 12418 in TX 1 TSN 2474467
+CONFLICT rolling back 9 items in TX 1 TSN 2474467
+newer TSN 2477152 when acquiring ITEM 4184 in TX 4 TSN 2477151
+CONFLICT rolling back 16 items in TX 4 TSN 2477151
+newer TSN 2480951 when acquiring ITEM 62655 in TX 4 TSN 2480950
+CONFLICT rolling back 17 items in TX 4 TSN 2480950
+newer TSN 2482022 when acquiring ITEM 87611 in TX 3 TSN 2482021
+CONFLICT rolling back 13 items in TX 3 TSN 2482021
+newer TSN 2482150 when acquiring ITEM 36788 in TX 2 TSN 2482073
+CONFLICT rolling back 12 items in TX 2 TSN 2482073
+newer TSN 2490276 when acquiring ITEM 21173 in TX 2 TSN 2490243
+CONFLICT rolling back 12 items in TX 2 TSN 2490243
+newer TSN 2492012 when acquiring ITEM 62881 in TX 3 TSN 2492010
+CONFLICT rolling back 7 items in TX 3 TSN 2492010
+newer TSN 2493682 when acquiring ITEM 367 in TX 2 TSN 2493669
+CONFLICT rolling back 12 items in TX 2 TSN 2493669
+newer TSN 2500595 when acquiring ITEM 33882 in TX 1 TSN 2500593
+CONFLICT rolling back 8 items in TX 1 TSN 2500593
+newer TSN 2506653 when acquiring ITEM 38260 in TX 5 TSN 2506624
+CONFLICT rolling back 7 items in TX 5 TSN 2506624
+newer TSN 2507615 when acquiring ITEM 59721 in TX 6 TSN 2507611
+CONFLICT rolling back 9 items in TX 6 TSN 2507611
+newer TSN 2519436 when acquiring ITEM 36767 in TX 2 TSN 2519412
+CONFLICT rolling back 8 items in TX 2 TSN 2519412
+newer TSN 2522317 when acquiring ITEM 88451 in TX 2 TSN 2522316
+CONFLICT rolling back 13 items in TX 2 TSN 2522316
+newer TSN 2522403 when acquiring ITEM 29457 in TX 5 TSN 2522352
+CONFLICT rolling back 3 items in TX 5 TSN 2522352
+newer TSN 2523964 when acquiring ITEM 4111 in TX 3 TSN 2523962
+CONFLICT rolling back 19 items in TX 3 TSN 2523962
+newer TSN 2527040 when acquiring ITEM 10599 in TX 3 TSN 2527039
+CONFLICT rolling back 8 items in TX 3 TSN 2527039
+newer TSN 2529510 when acquiring ITEM 59493 in TX 6 TSN 2529494
+CONFLICT rolling back 13 items in TX 6 TSN 2529494
+newer TSN 2539520 when acquiring ITEM 8520 in TX 3 TSN 2539510
+CONFLICT rolling back 9 items in TX 3 TSN 2539510
+newer TSN 2548170 when acquiring ITEM 28342 in TX 2 TSN 2548168
+CONFLICT rolling back 12 items in TX 2 TSN 2548168
+newer TSN 2560174 when acquiring ITEM 2785 in TX 6 TSN 2560173
+CONFLICT rolling back 5 items in TX 6 TSN 2560173
+newer TSN 2562367 when acquiring ITEM 93195 in TX 6 TSN 2562364
+CONFLICT rolling back 7 items in TX 6 TSN 2562364
+newer TSN 2567258 when acquiring ITEM 71959 in TX 6 TSN 2567254
+CONFLICT rolling back 17 items in TX 6 TSN 2567254
+newer TSN 2571126 when acquiring ITEM 45912 in TX 1 TSN 2571124
+CONFLICT rolling back 13 items in TX 1 TSN 2571124
+newer TSN 2573747 when acquiring ITEM 73680 in TX 1 TSN 2573738
+CONFLICT rolling back 14 items in TX 1 TSN 2573738
+newer TSN 2583089 when acquiring ITEM 37876 in TX 1 TSN 2583071
+CONFLICT rolling back 13 items in TX 1 TSN 2583071
+newer TSN 2587476 when acquiring ITEM 16603 in TX 6 TSN 2587473
+CONFLICT rolling back 12 items in TX 6 TSN 2587473
+newer TSN 2597842 when acquiring ITEM 79320 in TX 4 TSN 2597841
+CONFLICT rolling back 5 items in TX 4 TSN 2597841
+newer TSN 2605286 when acquiring ITEM 92635 in TX 6 TSN 2605285
+CONFLICT rolling back 9 items in TX 6 TSN 2605285
+newer TSN 2606205 when acquiring ITEM 20146 in TX 6 TSN 2606204
+CONFLICT rolling back 12 items in TX 6 TSN 2606204
+newer TSN 2606942 when acquiring ITEM 6945 in TX 4 TSN 2606941
+CONFLICT rolling back 8 items in TX 4 TSN 2606941
+newer TSN 2623170 when acquiring ITEM 1970 in TX 4 TSN 2623169
+CONFLICT rolling back 12 items in TX 4 TSN 2623169
+newer TSN 2628259 when acquiring ITEM 31215 in TX 1 TSN 2628257
+CONFLICT rolling back 5 items in TX 1 TSN 2628257
+newer TSN 2630858 when acquiring ITEM 55849 in TX 6 TSN 2630856
+CONFLICT rolling back 9 items in TX 6 TSN 2630856
+newer TSN 2634310 when acquiring ITEM 53415 in TX 2 TSN 2634288
+CONFLICT rolling back 2 items in TX 2 TSN 2634288
+newer TSN 2637973 when acquiring ITEM 89454 in TX 5 TSN 2637960
+CONFLICT rolling back 20 items in TX 5 TSN 2637960
+newer TSN 2638717 when acquiring ITEM 32843 in TX 5 TSN 2638715
+CONFLICT rolling back 18 items in TX 5 TSN 2638715
+newer TSN 2649268 when acquiring ITEM 6526 in TX 4 TSN 2649267
+CONFLICT rolling back 9 items in TX 4 TSN 2649267
+newer TSN 2654086 when acquiring ITEM 17117 in TX 4 TSN 2654072
+CONFLICT rolling back 12 items in TX 4 TSN 2654072
+newer TSN 2656622 when acquiring ITEM 54103 in TX 4 TSN 2656621
+CONFLICT rolling back 12 items in TX 4 TSN 2656621
+newer TSN 2656893 when acquiring ITEM 55913 in TX 4 TSN 2656892
+CONFLICT rolling back 12 items in TX 4 TSN 2656892
+newer TSN 2659795 when acquiring ITEM 42849 in TX 5 TSN 2659794
+CONFLICT rolling back 10 items in TX 5 TSN 2659794
+newer TSN 2660346 when acquiring ITEM 21777 in TX 2 TSN 2660345
+CONFLICT rolling back 12 items in TX 2 TSN 2660345
+newer TSN 2660837 when acquiring ITEM 1887 in TX 1 TSN 2660836
+CONFLICT rolling back 6 items in TX 1 TSN 2660836
+newer TSN 2674491 when acquiring ITEM 49904 in TX 6 TSN 2674478
+CONFLICT rolling back 16 items in TX 6 TSN 2674478
+newer TSN 2682284 when acquiring ITEM 13483 in TX 1 TSN 2682283
+CONFLICT rolling back 8 items in TX 1 TSN 2682283
+newer TSN 2682767 when acquiring ITEM 45591 in TX 6 TSN 2682738
+CONFLICT rolling back 8 items in TX 6 TSN 2682738
+newer TSN 2687670 when acquiring ITEM 6893 in TX 5 TSN 2687663
+CONFLICT rolling back 10 items in TX 5 TSN 2687663
+newer TSN 2688238 when acquiring ITEM 80508 in TX 5 TSN 2688237
+CONFLICT rolling back 8 items in TX 5 TSN 2688237
+newer TSN 2703964 when acquiring ITEM 85917 in TX 5 TSN 2703963
+CONFLICT rolling back 4 items in TX 5 TSN 2703963
+newer TSN 2705365 when acquiring ITEM 32076 in TX 4 TSN 2705341
+CONFLICT rolling back 11 items in TX 4 TSN 2705341
+newer TSN 2713872 when acquiring ITEM 24494 in TX 3 TSN 2713871
+CONFLICT rolling back 11 items in TX 3 TSN 2713871
+newer TSN 2717666 when acquiring ITEM 83137 in TX 4 TSN 2717665
+CONFLICT rolling back 8 items in TX 4 TSN 2717665
+newer TSN 2722310 when acquiring ITEM 21486 in TX 6 TSN 2722309
+CONFLICT rolling back 11 items in TX 6 TSN 2722309
+newer TSN 2733292 when acquiring ITEM 83878 in TX 6 TSN 2733290
+CONFLICT rolling back 13 items in TX 6 TSN 2733290
+newer TSN 2735615 when acquiring ITEM 54091 in TX 3 TSN 2735614
+CONFLICT rolling back 16 items in TX 3 TSN 2735614
+newer TSN 2744821 when acquiring ITEM 60429 in TX 4 TSN 2744817
+CONFLICT rolling back 12 items in TX 4 TSN 2744817
+newer TSN 2746905 when acquiring ITEM 85511 in TX 1 TSN 2746891
+CONFLICT rolling back 10 items in TX 1 TSN 2746891
+newer TSN 2750246 when acquiring ITEM 14273 in TX 6 TSN 2750243
+CONFLICT rolling back 7 items in TX 6 TSN 2750243
+newer TSN 2760233 when acquiring ITEM 76932 in TX 5 TSN 2760232
+CONFLICT rolling back 3 items in TX 5 TSN 2760232
+newer TSN 2760994 when acquiring ITEM 31711 in TX 2 TSN 2760987
+CONFLICT rolling back 17 items in TX 2 TSN 2760987
+newer TSN 2761674 when acquiring ITEM 21553 in TX 3 TSN 2761654
+CONFLICT rolling back 12 items in TX 3 TSN 2761654
+newer TSN 2775587 when acquiring ITEM 52641 in TX 4 TSN 2775567
+CONFLICT rolling back 9 items in TX 4 TSN 2775567
+newer TSN 2777179 when acquiring ITEM 52261 in TX 2 TSN 2777178
+CONFLICT rolling back 9 items in TX 2 TSN 2777178
+newer TSN 2779220 when acquiring ITEM 91389 in TX 6 TSN 2779219
+CONFLICT rolling back 9 items in TX 6 TSN 2779219
+newer TSN 2780443 when acquiring ITEM 69810 in TX 1 TSN 2780302
+CONFLICT rolling back 9 items in TX 1 TSN 2780302
+newer TSN 2784407 when acquiring ITEM 99382 in TX 5 TSN 2784406
+CONFLICT rolling back 15 items in TX 5 TSN 2784406
+newer TSN 2787832 when acquiring ITEM 69297 in TX 1 TSN 2787831
+CONFLICT rolling back 9 items in TX 1 TSN 2787831
+newer TSN 2808998 when acquiring ITEM 70342 in TX 4 TSN 2808996
+CONFLICT rolling back 14 items in TX 4 TSN 2808996
+newer TSN 2819934 when acquiring ITEM 4417 in TX 5 TSN 2819929
+CONFLICT rolling back 10 items in TX 5 TSN 2819929
+newer TSN 2820361 when acquiring ITEM 36266 in TX 3 TSN 2820330
+CONFLICT rolling back 6 items in TX 3 TSN 2820330
+newer TSN 2821811 when acquiring ITEM 3499 in TX 4 TSN 2821810
+CONFLICT rolling back 13 items in TX 4 TSN 2821810
+newer TSN 2825042 when acquiring ITEM 85646 in TX 4 TSN 2825040
+CONFLICT rolling back 9 items in TX 4 TSN 2825040
+newer TSN 2839388 when acquiring ITEM 61597 in TX 5 TSN 2839387
+CONFLICT rolling back 14 items in TX 5 TSN 2839387
+newer TSN 2842141 when acquiring ITEM 71494 in TX 4 TSN 2842133
+CONFLICT rolling back 17 items in TX 4 TSN 2842133
+newer TSN 2847425 when acquiring ITEM 21848 in TX 5 TSN 2847423
+CONFLICT rolling back 15 items in TX 5 TSN 2847423
+newer TSN 2849601 when acquiring ITEM 10888 in TX 2 TSN 2849600
+CONFLICT rolling back 11 items in TX 2 TSN 2849600
+newer TSN 2854872 when acquiring ITEM 7488 in TX 4 TSN 2854871
+CONFLICT rolling back 12 items in TX 4 TSN 2854871
+newer TSN 2858500 when acquiring ITEM 75959 in TX 4 TSN 2858499
+CONFLICT rolling back 8 items in TX 4 TSN 2858499
+newer TSN 2859707 when acquiring ITEM 90848 in TX 5 TSN 2859706
+CONFLICT rolling back 11 items in TX 5 TSN 2859706
+newer TSN 2866192 when acquiring ITEM 68489 in TX 4 TSN 2866191
+CONFLICT rolling back 15 items in TX 4 TSN 2866191
+newer TSN 2872127 when acquiring ITEM 50705 in TX 6 TSN 2872116
+CONFLICT rolling back 4 items in TX 6 TSN 2872116
+newer TSN 2872492 when acquiring ITEM 66244 in TX 4 TSN 2872491
+CONFLICT rolling back 12 items in TX 4 TSN 2872491
+newer TSN 2883613 when acquiring ITEM 66306 in TX 3 TSN 2883611
+CONFLICT rolling back 15 items in TX 3 TSN 2883611
+newer TSN 2893981 when acquiring ITEM 1191 in TX 2 TSN 2893980
+CONFLICT rolling back 7 items in TX 2 TSN 2893980
+newer TSN 2894161 when acquiring ITEM 10992 in TX 1 TSN 2894147
+CONFLICT rolling back 14 items in TX 1 TSN 2894147
+newer TSN 2900167 when acquiring ITEM 12336 in TX 1 TSN 2900165
+CONFLICT rolling back 15 items in TX 1 TSN 2900165
+newer TSN 2911038 when acquiring ITEM 20210 in TX 5 TSN 2911037
+CONFLICT rolling back 6 items in TX 5 TSN 2911037
+newer TSN 2915347 when acquiring ITEM 78122 in TX 3 TSN 2915346
+CONFLICT rolling back 11 items in TX 3 TSN 2915346
+newer TSN 2915517 when acquiring ITEM 63053 in TX 6 TSN 2915503
+CONFLICT rolling back 13 items in TX 6 TSN 2915503
+newer TSN 2921476 when acquiring ITEM 45219 in TX 4 TSN 2921460
+CONFLICT rolling back 19 items in TX 4 TSN 2921460
+newer TSN 2924223 when acquiring ITEM 85698 in TX 2 TSN 2924222
+CONFLICT rolling back 9 items in TX 2 TSN 2924222
+newer TSN 2928661 when acquiring ITEM 89729 in TX 3 TSN 2928660
+CONFLICT rolling back 13 items in TX 3 TSN 2928660
+newer TSN 2929055 when acquiring ITEM 32376 in TX 3 TSN 2929004
+CONFLICT rolling back 11 items in TX 3 TSN 2929004
+newer TSN 2934400 when acquiring ITEM 62560 in TX 1 TSN 2934399
+CONFLICT rolling back 18 items in TX 1 TSN 2934399
+newer TSN 2944351 when acquiring ITEM 37550 in TX 1 TSN 2944350
+CONFLICT rolling back 14 items in TX 1 TSN 2944350
+newer TSN 2945139 when acquiring ITEM 91725 in TX 5 TSN 2945138
+CONFLICT rolling back 5 items in TX 5 TSN 2945138
+newer TSN 2946100 when acquiring ITEM 32849 in TX 5 TSN 2946089
+CONFLICT rolling back 16 items in TX 5 TSN 2946089
+newer TSN 2958702 when acquiring ITEM 1736 in TX 6 TSN 2958701
+CONFLICT rolling back 14 items in TX 6 TSN 2958701
+newer TSN 2960243 when acquiring ITEM 19462 in TX 3 TSN 2960242
+CONFLICT rolling back 6 items in TX 3 TSN 2960242
+newer TSN 2960596 when acquiring ITEM 52895 in TX 6 TSN 2960589
+CONFLICT rolling back 11 items in TX 6 TSN 2960589
+newer TSN 2964200 when acquiring ITEM 42619 in TX 1 TSN 2964199
+CONFLICT rolling back 7 items in TX 1 TSN 2964199
+newer TSN 2971387 when acquiring ITEM 39059 in TX 5 TSN 2971386
+CONFLICT rolling back 18 items in TX 5 TSN 2971386
+newer TSN 2972344 when acquiring ITEM 26838 in TX 1 TSN 2972342
+CONFLICT rolling back 17 items in TX 1 TSN 2972342
+newer TSN 2972476 when acquiring ITEM 94879 in TX 6 TSN 2972371
+CONFLICT rolling back 7 items in TX 6 TSN 2972371
+newer TSN 2972516 when acquiring ITEM 95259 in TX 4 TSN 2972503
+CONFLICT rolling back 18 items in TX 4 TSN 2972503
+newer TSN 2974566 when acquiring ITEM 1273 in TX 2 TSN 2974554
+CONFLICT rolling back 4 items in TX 2 TSN 2974554
+newer TSN 2975830 when acquiring ITEM 59110 in TX 3 TSN 2975827
+CONFLICT rolling back 4 items in TX 3 TSN 2975827
+newer TSN 2978762 when acquiring ITEM 81703 in TX 2 TSN 2978752
+CONFLICT rolling back 11 items in TX 2 TSN 2978752
+newer TSN 2982698 when acquiring ITEM 57684 in TX 2 TSN 2982689
+CONFLICT rolling back 13 items in TX 2 TSN 2982689
+newer TSN 2998216 when acquiring ITEM 23073 in TX 2 TSN 2998215
+CONFLICT rolling back 16 items in TX 2 TSN 2998215
+newer TSN 3014489 when acquiring ITEM 93925 in TX 6 TSN 3014488
+CONFLICT rolling back 7 items in TX 6 TSN 3014488
+newer TSN 3026850 when acquiring ITEM 50840 in TX 2 TSN 3026849
+CONFLICT rolling back 17 items in TX 2 TSN 3026849
+newer TSN 3039529 when acquiring ITEM 63169 in TX 5 TSN 3039528
+CONFLICT rolling back 13 items in TX 5 TSN 3039528
+newer TSN 3043646 when acquiring ITEM 57342 in TX 2 TSN 3043644
+CONFLICT rolling back 18 items in TX 2 TSN 3043644
+newer TSN 3045414 when acquiring ITEM 67324 in TX 1 TSN 3045400
+CONFLICT rolling back 6 items in TX 1 TSN 3045400
+newer TSN 3066501 when acquiring ITEM 6925 in TX 3 TSN 3066500
+CONFLICT rolling back 8 items in TX 3 TSN 3066500
+newer TSN 3067860 when acquiring ITEM 59596 in TX 4 TSN 3067859
+CONFLICT rolling back 5 items in TX 4 TSN 3067859
+newer TSN 3082218 when acquiring ITEM 88050 in TX 3 TSN 3082217
+CONFLICT rolling back 6 items in TX 3 TSN 3082217
+newer TSN 3086038 when acquiring ITEM 22434 in TX 4 TSN 3086025
+CONFLICT rolling back 11 items in TX 4 TSN 3086025
+newer TSN 3089069 when acquiring ITEM 39286 in TX 1 TSN 3089068
+CONFLICT rolling back 14 items in TX 1 TSN 3089068
+newer TSN 3098556 when acquiring ITEM 10064 in TX 4 TSN 3098554
+CONFLICT rolling back 5 items in TX 4 TSN 3098554
+newer TSN 3107249 when acquiring ITEM 99835 in TX 4 TSN 3107248
+CONFLICT rolling back 9 items in TX 4 TSN 3107248
+newer TSN 3110956 when acquiring ITEM 19537 in TX 4 TSN 3110955
+CONFLICT rolling back 18 items in TX 4 TSN 3110955
+newer TSN 3118997 when acquiring ITEM 39928 in TX 1 TSN 3118996
+CONFLICT rolling back 5 items in TX 1 TSN 3118996
+newer TSN 3125064 when acquiring ITEM 76320 in TX 4 TSN 3125063
+CONFLICT rolling back 6 items in TX 4 TSN 3125063
+newer TSN 3134964 when acquiring ITEM 51113 in TX 1 TSN 3134963
+CONFLICT rolling back 12 items in TX 1 TSN 3134963
+newer TSN 3140957 when acquiring ITEM 55949 in TX 2 TSN 3140956
+CONFLICT rolling back 12 items in TX 2 TSN 3140956
+newer TSN 3147716 when acquiring ITEM 13906 in TX 6 TSN 3147693
+CONFLICT rolling back 14 items in TX 6 TSN 3147693
+newer TSN 3169079 when acquiring ITEM 65466 in TX 1 TSN 3169078
+CONFLICT rolling back 19 items in TX 1 TSN 3169078
+newer TSN 3170298 when acquiring ITEM 75238 in TX 5 TSN 3170275
+CONFLICT rolling back 7 items in TX 5 TSN 3170275
+newer TSN 3170488 when acquiring ITEM 2446 in TX 1 TSN 3170435
+CONFLICT rolling back 14 items in TX 1 TSN 3170435
+newer TSN 3170902 when acquiring ITEM 22400 in TX 1 TSN 3170901
+CONFLICT rolling back 8 items in TX 1 TSN 3170901
+newer TSN 3174626 when acquiring ITEM 2075 in TX 6 TSN 3174625
+CONFLICT rolling back 13 items in TX 6 TSN 3174625
+newer TSN 3174642 when acquiring ITEM 71349 in TX 3 TSN 3174641
+CONFLICT rolling back 7 items in TX 3 TSN 3174641
+newer TSN 3180415 when acquiring ITEM 3462 in TX 6 TSN 3180411
+CONFLICT rolling back 10 items in TX 6 TSN 3180411
+newer TSN 3221071 when acquiring ITEM 29499 in TX 2 TSN 3221069
+CONFLICT rolling back 9 items in TX 2 TSN 3221069
+newer TSN 3221687 when acquiring ITEM 26231 in TX 6 TSN 3221683
+CONFLICT rolling back 2 items in TX 6 TSN 3221683
+newer TSN 3223729 when acquiring ITEM 13913 in TX 4 TSN 3223726
+CONFLICT rolling back 2 items in TX 4 TSN 3223726
+newer TSN 3224216 when acquiring ITEM 50631 in TX 4 TSN 3224215
+CONFLICT rolling back 6 items in TX 4 TSN 3224215
+newer TSN 3228644 when acquiring ITEM 35211 in TX 5 TSN 3228643
+CONFLICT rolling back 14 items in TX 5 TSN 3228643
+newer TSN 3235818 when acquiring ITEM 45219 in TX 1 TSN 3235817
+CONFLICT rolling back 15 items in TX 1 TSN 3235817
+newer TSN 3240972 when acquiring ITEM 27422 in TX 1 TSN 3240964
+CONFLICT rolling back 14 items in TX 1 TSN 3240964
+newer TSN 3251774 when acquiring ITEM 80454 in TX 3 TSN 3251773
+CONFLICT rolling back 15 items in TX 3 TSN 3251773
+newer TSN 3251901 when acquiring ITEM 16195 in TX 4 TSN 3251900
+CONFLICT rolling back 11 items in TX 4 TSN 3251900
+newer TSN 3253873 when acquiring ITEM 79685 in TX 1 TSN 3253872
+CONFLICT rolling back 13 items in TX 1 TSN 3253872
+newer TSN 3255698 when acquiring ITEM 53009 in TX 5 TSN 3255697
+CONFLICT rolling back 8 items in TX 5 TSN 3255697
+newer TSN 3260609 when acquiring ITEM 52457 in TX 4 TSN 3260607
+CONFLICT rolling back 10 items in TX 4 TSN 3260607
+newer TSN 3268777 when acquiring ITEM 53243 in TX 2 TSN 3268776
+CONFLICT rolling back 14 items in TX 2 TSN 3268776
+newer TSN 3279048 when acquiring ITEM 62372 in TX 6 TSN 3279047
+CONFLICT rolling back 18 items in TX 6 TSN 3279047
+newer TSN 3279799 when acquiring ITEM 9677 in TX 4 TSN 3279798
+CONFLICT rolling back 18 items in TX 4 TSN 3279798
+newer TSN 3280930 when acquiring ITEM 13471 in TX 1 TSN 3280928
+CONFLICT rolling back 15 items in TX 1 TSN 3280928
+newer TSN 3282870 when acquiring ITEM 37446 in TX 2 TSN 3282869
+CONFLICT rolling back 8 items in TX 2 TSN 3282869
+newer TSN 3283894 when acquiring ITEM 68279 in TX 6 TSN 3283893
+CONFLICT rolling back 3 items in TX 6 TSN 3283893
+newer TSN 3290608 when acquiring ITEM 13617 in TX 4 TSN 3290607
+CONFLICT rolling back 19 items in TX 4 TSN 3290607
+newer TSN 3303347 when acquiring ITEM 47864 in TX 2 TSN 3303346
+CONFLICT rolling back 13 items in TX 2 TSN 3303346
+newer TSN 3308409 when acquiring ITEM 81376 in TX 6 TSN 3308408
+CONFLICT rolling back 10 items in TX 6 TSN 3308408
+newer TSN 3313291 when acquiring ITEM 12114 in TX 1 TSN 3313290
+CONFLICT rolling back 11 items in TX 1 TSN 3313290
+newer TSN 3318120 when acquiring ITEM 46091 in TX 1 TSN 3318116
+CONFLICT rolling back 9 items in TX 1 TSN 3318116
+newer TSN 3319997 when acquiring ITEM 9264 in TX 4 TSN 3319996
+CONFLICT rolling back 15 items in TX 4 TSN 3319996
+newer TSN 3322174 when acquiring ITEM 23655 in TX 5 TSN 3322173
+CONFLICT rolling back 12 items in TX 5 TSN 3322173
+newer TSN 3322772 when acquiring ITEM 69201 in TX 4 TSN 3322771
+CONFLICT rolling back 14 items in TX 4 TSN 3322771
+newer TSN 3326294 when acquiring ITEM 86101 in TX 1 TSN 3326283
+CONFLICT rolling back 12 items in TX 1 TSN 3326283
+newer TSN 3330387 when acquiring ITEM 63622 in TX 6 TSN 3330386
+CONFLICT rolling back 5 items in TX 6 TSN 3330386
+newer TSN 3332068 when acquiring ITEM 53419 in TX 1 TSN 3332067
+CONFLICT rolling back 14 items in TX 1 TSN 3332067
+newer TSN 3336031 when acquiring ITEM 25120 in TX 5 TSN 3336024
+CONFLICT rolling back 18 items in TX 5 TSN 3336024
+newer TSN 3353139 when acquiring ITEM 81025 in TX 1 TSN 3353138
+CONFLICT rolling back 8 items in TX 1 TSN 3353138
+newer TSN 3355875 when acquiring ITEM 36795 in TX 4 TSN 3355874
+CONFLICT rolling back 14 items in TX 4 TSN 3355874
+newer TSN 3358398 when acquiring ITEM 39016 in TX 2 TSN 3358397
+CONFLICT rolling back 14 items in TX 2 TSN 3358397
+newer TSN 3360108 when acquiring ITEM 82341 in TX 4 TSN 3360107
+CONFLICT rolling back 12 items in TX 4 TSN 3360107
+newer TSN 3361360 when acquiring ITEM 16922 in TX 2 TSN 3361359
+CONFLICT rolling back 10 items in TX 2 TSN 3361359
+newer TSN 3378042 when acquiring ITEM 76712 in TX 2 TSN 3378041
+CONFLICT rolling back 13 items in TX 2 TSN 3378041
+newer TSN 3379070 when acquiring ITEM 7772 in TX 4 TSN 3379045
+CONFLICT rolling back 9 items in TX 4 TSN 3379045
+newer TSN 3383024 when acquiring ITEM 72962 in TX 1 TSN 3383004
+CONFLICT rolling back 8 items in TX 1 TSN 3383004
+newer TSN 3392052 when acquiring ITEM 70255 in TX 2 TSN 3392051
+CONFLICT rolling back 12 items in TX 2 TSN 3392051
+newer TSN 3392485 when acquiring ITEM 66301 in TX 4 TSN 3392484
+CONFLICT rolling back 8 items in TX 4 TSN 3392484
+newer TSN 3395664 when acquiring ITEM 29216 in TX 1 TSN 3395662
+CONFLICT rolling back 15 items in TX 1 TSN 3395662
+newer TSN 3398575 when acquiring ITEM 9966 in TX 5 TSN 3398574
+CONFLICT rolling back 18 items in TX 5 TSN 3398574
+newer TSN 3398899 when acquiring ITEM 21917 in TX 1 TSN 3398880
+CONFLICT rolling back 14 items in TX 1 TSN 3398880
+newer TSN 3403978 when acquiring ITEM 84315 in TX 1 TSN 3403977
+CONFLICT rolling back 12 items in TX 1 TSN 3403977
+newer TSN 3405896 when acquiring ITEM 66725 in TX 1 TSN 3405895
+CONFLICT rolling back 6 items in TX 1 TSN 3405895
+newer TSN 3406347 when acquiring ITEM 32379 in TX 6 TSN 3406346
+CONFLICT rolling back 9 items in TX 6 TSN 3406346
+newer TSN 3411556 when acquiring ITEM 78048 in TX 6 TSN 3411555
+CONFLICT rolling back 18 items in TX 6 TSN 3411555
+newer TSN 3415973 when acquiring ITEM 9556 in TX 5 TSN 3415972
+CONFLICT rolling back 18 items in TX 5 TSN 3415972
+newer TSN 3417627 when acquiring ITEM 20552 in TX 5 TSN 3417625
+CONFLICT rolling back 18 items in TX 5 TSN 3417625
+newer TSN 3418480 when acquiring ITEM 2828 in TX 4 TSN 3418476
+CONFLICT rolling back 11 items in TX 4 TSN 3418476
+newer TSN 3441196 when acquiring ITEM 62312 in TX 4 TSN 3441195
+CONFLICT rolling back 12 items in TX 4 TSN 3441195
+newer TSN 3450269 when acquiring ITEM 34391 in TX 5 TSN 3450268
+CONFLICT rolling back 14 items in TX 5 TSN 3450268
+newer TSN 3454856 when acquiring ITEM 40153 in TX 3 TSN 3454855
+CONFLICT rolling back 7 items in TX 3 TSN 3454855
+newer TSN 3459082 when acquiring ITEM 65436 in TX 1 TSN 3459080
+CONFLICT rolling back 10 items in TX 1 TSN 3459080
+newer TSN 3460871 when acquiring ITEM 3720 in TX 2 TSN 3460870
+CONFLICT rolling back 4 items in TX 2 TSN 3460870
+newer TSN 3469836 when acquiring ITEM 75642 in TX 6 TSN 3469811
+CONFLICT rolling back 9 items in TX 6 TSN 3469811
+newer TSN 3476828 when acquiring ITEM 86605 in TX 2 TSN 3476812
+CONFLICT rolling back 8 items in TX 2 TSN 3476812
+newer TSN 3481246 when acquiring ITEM 91288 in TX 3 TSN 3481245
+CONFLICT rolling back 4 items in TX 3 TSN 3481245
+newer TSN 3484394 when acquiring ITEM 50929 in TX 4 TSN 3484393
+CONFLICT rolling back 15 items in TX 4 TSN 3484393
+newer TSN 3485756 when acquiring ITEM 4500 in TX 3 TSN 3485749
+CONFLICT rolling back 12 items in TX 3 TSN 3485749
+newer TSN 3489020 when acquiring ITEM 83502 in TX 2 TSN 3489012
+CONFLICT rolling back 8 items in TX 2 TSN 3489012
+newer TSN 3490976 when acquiring ITEM 88162 in TX 2 TSN 3490975
+CONFLICT rolling back 16 items in TX 2 TSN 3490975
+newer TSN 3493130 when acquiring ITEM 97999 in TX 5 TSN 3493129
+CONFLICT rolling back 11 items in TX 5 TSN 3493129
+newer TSN 3499676 when acquiring ITEM 51747 in TX 4 TSN 3499675
+CONFLICT rolling back 6 items in TX 4 TSN 3499675
+newer TSN 3500599 when acquiring ITEM 23574 in TX 1 TSN 3500598
+CONFLICT rolling back 14 items in TX 1 TSN 3500598
+newer TSN 3506381 when acquiring ITEM 18009 in TX 5 TSN 3506375
+CONFLICT rolling back 12 items in TX 5 TSN 3506375
+newer TSN 3511390 when acquiring ITEM 24609 in TX 4 TSN 3511389
+CONFLICT rolling back 15 items in TX 4 TSN 3511389
+newer TSN 3520634 when acquiring ITEM 71593 in TX 4 TSN 3520633
+CONFLICT rolling back 15 items in TX 4 TSN 3520633
+newer TSN 3520746 when acquiring ITEM 438 in TX 6 TSN 3520745
+CONFLICT rolling back 8 items in TX 6 TSN 3520745
+newer TSN 3521085 when acquiring ITEM 84600 in TX 5 TSN 3521074
+CONFLICT rolling back 12 items in TX 5 TSN 3521074
+newer TSN 3535987 when acquiring ITEM 54451 in TX 4 TSN 3535985
+CONFLICT rolling back 8 items in TX 4 TSN 3535985
+newer TSN 3540552 when acquiring ITEM 3186 in TX 4 TSN 3540550
+CONFLICT rolling back 7 items in TX 4 TSN 3540550
+newer TSN 3542717 when acquiring ITEM 25239 in TX 4 TSN 3542716
+CONFLICT rolling back 15 items in TX 4 TSN 3542716
+newer TSN 3552355 when acquiring ITEM 66108 in TX 6 TSN 3552354
+CONFLICT rolling back 13 items in TX 6 TSN 3552354
+newer TSN 3553607 when acquiring ITEM 71934 in TX 4 TSN 3553606
+CONFLICT rolling back 13 items in TX 4 TSN 3553606
+newer TSN 3559383 when acquiring ITEM 27612 in TX 1 TSN 3559382
+CONFLICT rolling back 5 items in TX 1 TSN 3559382
+newer TSN 3565684 when acquiring ITEM 23135 in TX 2 TSN 3565683
+CONFLICT rolling back 6 items in TX 2 TSN 3565683
+newer TSN 3565879 when acquiring ITEM 92738 in TX 4 TSN 3565878
+CONFLICT rolling back 9 items in TX 4 TSN 3565878
+newer TSN 3569661 when acquiring ITEM 55992 in TX 4 TSN 3569654
+CONFLICT rolling back 4 items in TX 4 TSN 3569654
+newer TSN 3573059 when acquiring ITEM 28314 in TX 4 TSN 3573058
+CONFLICT rolling back 19 items in TX 4 TSN 3573058
+newer TSN 3574403 when acquiring ITEM 63005 in TX 6 TSN 3574397
+CONFLICT rolling back 4 items in TX 6 TSN 3574397
+newer TSN 3577349 when acquiring ITEM 7723 in TX 4 TSN 3577331
+CONFLICT rolling back 4 items in TX 4 TSN 3577331
+newer TSN 3577636 when acquiring ITEM 46215 in TX 5 TSN 3577629
+CONFLICT rolling back 11 items in TX 5 TSN 3577629
+newer TSN 3577828 when acquiring ITEM 39530 in TX 3 TSN 3577827
+CONFLICT rolling back 15 items in TX 3 TSN 3577827
+newer TSN 3584626 when acquiring ITEM 73482 in TX 3 TSN 3584625
+CONFLICT rolling back 16 items in TX 3 TSN 3584625
+newer TSN 3588546 when acquiring ITEM 20740 in TX 3 TSN 3588538
+CONFLICT rolling back 16 items in TX 3 TSN 3588538
+newer TSN 3594253 when acquiring ITEM 62335 in TX 6 TSN 3594252
+CONFLICT rolling back 9 items in TX 6 TSN 3594252
+newer TSN 3596631 when acquiring ITEM 28766 in TX 1 TSN 3596615
+CONFLICT rolling back 16 items in TX 1 TSN 3596615
+newer TSN 3607017 when acquiring ITEM 16848 in TX 1 TSN 3607016
+CONFLICT rolling back 13 items in TX 1 TSN 3607016
+newer TSN 3615894 when acquiring ITEM 58489 in TX 4 TSN 3615882
+CONFLICT rolling back 19 items in TX 4 TSN 3615882
+newer TSN 3615993 when acquiring ITEM 18002 in TX 6 TSN 3615992
+CONFLICT rolling back 10 items in TX 6 TSN 3615992
+newer TSN 3625099 when acquiring ITEM 22832 in TX 5 TSN 3625098
+CONFLICT rolling back 17 items in TX 5 TSN 3625098
+newer TSN 3628907 when acquiring ITEM 37889 in TX 1 TSN 3628891
+CONFLICT rolling back 1 items in TX 1 TSN 3628891
+newer TSN 3646862 when acquiring ITEM 4347 in TX 4 TSN 3646861
+CONFLICT rolling back 14 items in TX 4 TSN 3646861
+newer TSN 3647473 when acquiring ITEM 46641 in TX 5 TSN 3647472
+CONFLICT rolling back 12 items in TX 5 TSN 3647472
+newer TSN 3652220 when acquiring ITEM 67196 in TX 3 TSN 3652219
+CONFLICT rolling back 13 items in TX 3 TSN 3652219
+newer TSN 3655263 when acquiring ITEM 36876 in TX 2 TSN 3655262
+CONFLICT rolling back 11 items in TX 2 TSN 3655262
+newer TSN 3660934 when acquiring ITEM 7182 in TX 1 TSN 3660932
+CONFLICT rolling back 11 items in TX 1 TSN 3660932
+newer TSN 3672595 when acquiring ITEM 53200 in TX 4 TSN 3672594
+CONFLICT rolling back 16 items in TX 4 TSN 3672594
+newer TSN 3672722 when acquiring ITEM 22850 in TX 6 TSN 3672715
+CONFLICT rolling back 14 items in TX 6 TSN 3672715
+newer TSN 3677192 when acquiring ITEM 99068 in TX 5 TSN 3677172
+CONFLICT rolling back 17 items in TX 5 TSN 3677172
+newer TSN 3677632 when acquiring ITEM 88502 in TX 6 TSN 3677631
+CONFLICT rolling back 12 items in TX 6 TSN 3677631
+newer TSN 3680561 when acquiring ITEM 25445 in TX 4 TSN 3680559
+CONFLICT rolling back 5 items in TX 4 TSN 3680559
+newer TSN 3689149 when acquiring ITEM 44476 in TX 2 TSN 3689146
+CONFLICT rolling back 4 items in TX 2 TSN 3689146
+newer TSN 3700847 when acquiring ITEM 47081 in TX 5 TSN 3700846
+CONFLICT rolling back 11 items in TX 5 TSN 3700846
+newer TSN 3703622 when acquiring ITEM 39681 in TX 2 TSN 3703603
+CONFLICT rolling back 13 items in TX 2 TSN 3703603
+newer TSN 3713200 when acquiring ITEM 19966 in TX 3 TSN 3713199
+CONFLICT rolling back 17 items in TX 3 TSN 3713199
+newer TSN 3717385 when acquiring ITEM 43967 in TX 6 TSN 3717347
+CONFLICT rolling back 6 items in TX 6 TSN 3717347
+newer TSN 3722648 when acquiring ITEM 74473 in TX 4 TSN 3722647
+CONFLICT rolling back 2 items in TX 4 TSN 3722647
+newer TSN 3727127 when acquiring ITEM 519 in TX 4 TSN 3727125
+CONFLICT rolling back 16 items in TX 4 TSN 3727125
+newer TSN 3730899 when acquiring ITEM 63483 in TX 4 TSN 3730897
+CONFLICT rolling back 13 items in TX 4 TSN 3730897
+newer TSN 3731080 when acquiring ITEM 85674 in TX 2 TSN 3730992
+CONFLICT rolling back 7 items in TX 2 TSN 3730992
+newer TSN 3731449 when acquiring ITEM 16200 in TX 6 TSN 3731442
+CONFLICT rolling back 9 items in TX 6 TSN 3731442
+newer TSN 3738081 when acquiring ITEM 25150 in TX 5 TSN 3738080
+CONFLICT rolling back 18 items in TX 5 TSN 3738080
+newer TSN 3742537 when acquiring ITEM 58035 in TX 5 TSN 3742531
+CONFLICT rolling back 5 items in TX 5 TSN 3742531
+newer TSN 3744948 when acquiring ITEM 48192 in TX 2 TSN 3744946
+CONFLICT rolling back 14 items in TX 2 TSN 3744946
+newer TSN 3751624 when acquiring ITEM 54937 in TX 6 TSN 3751623
+CONFLICT rolling back 11 items in TX 6 TSN 3751623
+newer TSN 3753383 when acquiring ITEM 20905 in TX 1 TSN 3753382
+CONFLICT rolling back 16 items in TX 1 TSN 3753382
+newer TSN 3755285 when acquiring ITEM 6732 in TX 3 TSN 3755284
+CONFLICT rolling back 16 items in TX 3 TSN 3755284
+newer TSN 3757983 when acquiring ITEM 80361 in TX 6 TSN 3757982
+CONFLICT rolling back 13 items in TX 6 TSN 3757982
+newer TSN 3760406 when acquiring ITEM 43112 in TX 1 TSN 3760404
+CONFLICT rolling back 19 items in TX 1 TSN 3760404
+newer TSN 3769093 when acquiring ITEM 12798 in TX 4 TSN 3769092
+CONFLICT rolling back 12 items in TX 4 TSN 3769092
+newer TSN 3776511 when acquiring ITEM 67695 in TX 1 TSN 3776495
+CONFLICT rolling back 18 items in TX 1 TSN 3776495
+newer TSN 3782927 when acquiring ITEM 11862 in TX 6 TSN 3782913
+CONFLICT rolling back 12 items in TX 6 TSN 3782913
+newer TSN 3785108 when acquiring ITEM 83202 in TX 6 TSN 3785107
+CONFLICT rolling back 14 items in TX 6 TSN 3785107
+newer TSN 3786488 when acquiring ITEM 45467 in TX 6 TSN 3786481
+CONFLICT rolling back 10 items in TX 6 TSN 3786481
+newer TSN 3790974 when acquiring ITEM 37579 in TX 6 TSN 3790973
+CONFLICT rolling back 5 items in TX 6 TSN 3790973
+newer TSN 3806938 when acquiring ITEM 19346 in TX 2 TSN 3806905
+CONFLICT rolling back 10 items in TX 2 TSN 3806905
+newer TSN 3824077 when acquiring ITEM 42158 in TX 1 TSN 3824076
+CONFLICT rolling back 3 items in TX 1 TSN 3824076
+newer TSN 3825177 when acquiring ITEM 17917 in TX 2 TSN 3825176
+CONFLICT rolling back 15 items in TX 2 TSN 3825176
+newer TSN 3832289 when acquiring ITEM 33313 in TX 1 TSN 3832288
+CONFLICT rolling back 8 items in TX 1 TSN 3832288
+newer TSN 3845064 when acquiring ITEM 8581 in TX 2 TSN 3845058
+CONFLICT rolling back 13 items in TX 2 TSN 3845058
+newer TSN 3846609 when acquiring ITEM 60627 in TX 6 TSN 3846608
+CONFLICT rolling back 15 items in TX 6 TSN 3846608
+newer TSN 3850314 when acquiring ITEM 52607 in TX 5 TSN 3850312
+CONFLICT rolling back 18 items in TX 5 TSN 3850312
+newer TSN 3852118 when acquiring ITEM 81450 in TX 1 TSN 3852116
+CONFLICT rolling back 9 items in TX 1 TSN 3852116
+newer TSN 3860799 when acquiring ITEM 58442 in TX 2 TSN 3860783
+CONFLICT rolling back 9 items in TX 2 TSN 3860783
+newer TSN 3870055 when acquiring ITEM 90389 in TX 6 TSN 3870053
+CONFLICT rolling back 14 items in TX 6 TSN 3870053
+newer TSN 3880493 when acquiring ITEM 98278 in TX 5 TSN 3880492
+CONFLICT rolling back 15 items in TX 5 TSN 3880492
+newer TSN 3888904 when acquiring ITEM 94029 in TX 3 TSN 3888903
+CONFLICT rolling back 6 items in TX 3 TSN 3888903
+newer TSN 3898401 when acquiring ITEM 55735 in TX 2 TSN 3898399
+CONFLICT rolling back 7 items in TX 2 TSN 3898399
+newer TSN 3904035 when acquiring ITEM 26971 in TX 6 TSN 3904034
+CONFLICT rolling back 17 items in TX 6 TSN 3904034
+newer TSN 3907858 when acquiring ITEM 50893 in TX 2 TSN 3907857
+CONFLICT rolling back 9 items in TX 2 TSN 3907857
+newer TSN 3916937 when acquiring ITEM 95280 in TX 6 TSN 3916925
+CONFLICT rolling back 13 items in TX 6 TSN 3916925
+newer TSN 3923805 when acquiring ITEM 46177 in TX 3 TSN 3923804
+CONFLICT rolling back 15 items in TX 3 TSN 3923804
+newer TSN 3927106 when acquiring ITEM 61863 in TX 5 TSN 3927104
+CONFLICT rolling back 13 items in TX 5 TSN 3927104
+newer TSN 3931315 when acquiring ITEM 93785 in TX 1 TSN 3931314
+CONFLICT rolling back 10 items in TX 1 TSN 3931314
+newer TSN 3937923 when acquiring ITEM 21561 in TX 2 TSN 3937922
+CONFLICT rolling back 12 items in TX 2 TSN 3937922
+newer TSN 3951999 when acquiring ITEM 11775 in TX 6 TSN 3951998
+CONFLICT rolling back 10 items in TX 6 TSN 3951998
+newer TSN 3964108 when acquiring ITEM 75036 in TX 6 TSN 3964097
+CONFLICT rolling back 2 items in TX 6 TSN 3964097
+newer TSN 3968478 when acquiring ITEM 65593 in TX 1 TSN 3968477
+CONFLICT rolling back 10 items in TX 1 TSN 3968477
+newer TSN 3974336 when acquiring ITEM 66934 in TX 4 TSN 3974335
+CONFLICT rolling back 10 items in TX 4 TSN 3974335
+newer TSN 3983497 when acquiring ITEM 44180 in TX 4 TSN 3983496
+CONFLICT rolling back 12 items in TX 4 TSN 3983496
+newer TSN 3995937 when acquiring ITEM 92150 in TX 4 TSN 3995930
+CONFLICT rolling back 8 items in TX 4 TSN 3995930
+newer TSN 3996329 when acquiring ITEM 5875 in TX 1 TSN 3996317
+CONFLICT rolling back 18 items in TX 1 TSN 3996317
+newer TSN 3997566 when acquiring ITEM 34312 in TX 4 TSN 3997560
+CONFLICT rolling back 10 items in TX 4 TSN 3997560
+newer TSN 4009066 when acquiring ITEM 61461 in TX 4 TSN 4009065
+CONFLICT rolling back 12 items in TX 4 TSN 4009065
+newer TSN 4014248 when acquiring ITEM 14786 in TX 1 TSN 4014247
+CONFLICT rolling back 11 items in TX 1 TSN 4014247
+newer TSN 4016546 when acquiring ITEM 63246 in TX 1 TSN 4016545
+CONFLICT rolling back 11 items in TX 1 TSN 4016545
+newer TSN 4028026 when acquiring ITEM 40318 in TX 5 TSN 4028025
+CONFLICT rolling back 4 items in TX 5 TSN 4028025
+newer TSN 4034305 when acquiring ITEM 78781 in TX 5 TSN 4034304
+CONFLICT rolling back 14 items in TX 5 TSN 4034304
+newer TSN 4043587 when acquiring ITEM 13785 in TX 2 TSN 4043564
+CONFLICT rolling back 9 items in TX 2 TSN 4043564
+newer TSN 4045324 when acquiring ITEM 30977 in TX 4 TSN 4045323
+CONFLICT rolling back 14 items in TX 4 TSN 4045323
+newer TSN 4046586 when acquiring ITEM 34754 in TX 1 TSN 4046584
+CONFLICT rolling back 13 items in TX 1 TSN 4046584
+newer TSN 4046787 when acquiring ITEM 95341 in TX 2 TSN 4046786
+CONFLICT rolling back 15 items in TX 2 TSN 4046786
+newer TSN 4050793 when acquiring ITEM 75929 in TX 1 TSN 4050792
+CONFLICT rolling back 11 items in TX 1 TSN 4050792
+newer TSN 4056703 when acquiring ITEM 38624 in TX 3 TSN 4056702
+CONFLICT rolling back 10 items in TX 3 TSN 4056702
+newer TSN 4065369 when acquiring ITEM 98365 in TX 2 TSN 4065365
+CONFLICT rolling back 8 items in TX 2 TSN 4065365
+newer TSN 4078434 when acquiring ITEM 93362 in TX 1 TSN 4078408
+CONFLICT rolling back 15 items in TX 1 TSN 4078408
+newer TSN 4082155 when acquiring ITEM 65148 in TX 3 TSN 4082147
+CONFLICT rolling back 11 items in TX 3 TSN 4082147
+newer TSN 4082293 when acquiring ITEM 47383 in TX 3 TSN 4082281
+CONFLICT rolling back 4 items in TX 3 TSN 4082281
+newer TSN 4086168 when acquiring ITEM 49560 in TX 1 TSN 4086149
+CONFLICT rolling back 16 items in TX 1 TSN 4086149
+newer TSN 4087010 when acquiring ITEM 91175 in TX 5 TSN 4087009
+CONFLICT rolling back 5 items in TX 5 TSN 4087009
+newer TSN 4089561 when acquiring ITEM 91530 in TX 1 TSN 4089560
+CONFLICT rolling back 18 items in TX 1 TSN 4089560
+newer TSN 4092199 when acquiring ITEM 91673 in TX 6 TSN 4092198
+CONFLICT rolling back 4 items in TX 6 TSN 4092198
+newer TSN 4093512 when acquiring ITEM 3893 in TX 3 TSN 4093502
+CONFLICT rolling back 16 items in TX 3 TSN 4093502
+newer TSN 4097169 when acquiring ITEM 22468 in TX 3 TSN 4097168
+CONFLICT rolling back 12 items in TX 3 TSN 4097168
+newer TSN 4102798 when acquiring ITEM 48474 in TX 2 TSN 4102777
+CONFLICT rolling back 0 items in TX 2 TSN 4102777
+newer TSN 4102968 when acquiring ITEM 80973 in TX 3 TSN 4102967
+CONFLICT rolling back 8 items in TX 3 TSN 4102967
+newer TSN 4103755 when acquiring ITEM 40001 in TX 6 TSN 4103754
+CONFLICT rolling back 6 items in TX 6 TSN 4103754
+newer TSN 4112435 when acquiring ITEM 74731 in TX 3 TSN 4112419
+CONFLICT rolling back 9 items in TX 3 TSN 4112419
+newer TSN 4114226 when acquiring ITEM 79680 in TX 2 TSN 4114225
+CONFLICT rolling back 11 items in TX 2 TSN 4114225
+newer TSN 4119236 when acquiring ITEM 73390 in TX 4 TSN 4119234
+CONFLICT rolling back 13 items in TX 4 TSN 4119234
+newer TSN 4135450 when acquiring ITEM 16962 in TX 6 TSN 4135403
+CONFLICT rolling back 9 items in TX 6 TSN 4135403
+newer TSN 4139461 when acquiring ITEM 84931 in TX 5 TSN 4139455
+CONFLICT rolling back 16 items in TX 5 TSN 4139455
+newer TSN 4142544 when acquiring ITEM 43731 in TX 3 TSN 4142523
+CONFLICT rolling back 5 items in TX 3 TSN 4142523
+newer TSN 4157327 when acquiring ITEM 3062 in TX 5 TSN 4157326
+CONFLICT rolling back 13 items in TX 5 TSN 4157326
+newer TSN 4165984 when acquiring ITEM 48836 in TX 1 TSN 4165983
+CONFLICT rolling back 7 items in TX 1 TSN 4165983
+newer TSN 4172361 when acquiring ITEM 94172 in TX 6 TSN 4172356
+CONFLICT rolling back 11 items in TX 6 TSN 4172356
+newer TSN 4178411 when acquiring ITEM 35356 in TX 1 TSN 4178387
+CONFLICT rolling back 11 items in TX 1 TSN 4178387
+newer TSN 4178954 when acquiring ITEM 70312 in TX 2 TSN 4178953
+CONFLICT rolling back 12 items in TX 2 TSN 4178953
+newer TSN 4196122 when acquiring ITEM 47639 in TX 1 TSN 4196112
+CONFLICT rolling back 15 items in TX 1 TSN 4196112
+newer TSN 4196736 when acquiring ITEM 6780 in TX 4 TSN 4196735
+CONFLICT rolling back 13 items in TX 4 TSN 4196735
+newer TSN 4206912 when acquiring ITEM 24628 in TX 3 TSN 4206911
+CONFLICT rolling back 16 items in TX 3 TSN 4206911
+newer TSN 4219186 when acquiring ITEM 77985 in TX 5 TSN 4219183
+CONFLICT rolling back 12 items in TX 5 TSN 4219183
+newer TSN 4219290 when acquiring ITEM 76810 in TX 6 TSN 4219289
+CONFLICT rolling back 4 items in TX 6 TSN 4219289
+newer TSN 4223541 when acquiring ITEM 47200 in TX 2 TSN 4223538
+CONFLICT rolling back 4 items in TX 2 TSN 4223538
+newer TSN 4228829 when acquiring ITEM 54515 in TX 2 TSN 4228825
+CONFLICT rolling back 9 items in TX 2 TSN 4228825
+newer TSN 4233939 when acquiring ITEM 89415 in TX 1 TSN 4233936
+CONFLICT rolling back 2 items in TX 1 TSN 4233936
+newer TSN 4235493 when acquiring ITEM 1261 in TX 2 TSN 4235486
+CONFLICT rolling back 10 items in TX 2 TSN 4235486
+newer TSN 4245564 when acquiring ITEM 76845 in TX 5 TSN 4245563
+CONFLICT rolling back 14 items in TX 5 TSN 4245563
+newer TSN 4253281 when acquiring ITEM 26046 in TX 1 TSN 4253280
+CONFLICT rolling back 18 items in TX 1 TSN 4253280
+newer TSN 4256187 when acquiring ITEM 61011 in TX 3 TSN 4256179
+CONFLICT rolling back 12 items in TX 3 TSN 4256179
+newer TSN 4258976 when acquiring ITEM 99326 in TX 2 TSN 4258972
+CONFLICT rolling back 13 items in TX 2 TSN 4258972
+newer TSN 4263554 when acquiring ITEM 46069 in TX 2 TSN 4263534
+CONFLICT rolling back 12 items in TX 2 TSN 4263534
+newer TSN 4266704 when acquiring ITEM 24308 in TX 3 TSN 4266703
+CONFLICT rolling back 8 items in TX 3 TSN 4266703
+newer TSN 4272506 when acquiring ITEM 28486 in TX 2 TSN 4272498
+CONFLICT rolling back 6 items in TX 2 TSN 4272498
+newer TSN 4278089 when acquiring ITEM 53189 in TX 2 TSN 4278088
+CONFLICT rolling back 9 items in TX 2 TSN 4278088
+newer TSN 4300390 when acquiring ITEM 29622 in TX 5 TSN 4300389
+CONFLICT rolling back 11 items in TX 5 TSN 4300389
+newer TSN 4320536 when acquiring ITEM 62533 in TX 3 TSN 4320526
+CONFLICT rolling back 14 items in TX 3 TSN 4320526
+newer TSN 4323097 when acquiring ITEM 25669 in TX 3 TSN 4323096
+CONFLICT rolling back 11 items in TX 3 TSN 4323096
+newer TSN 4325971 when acquiring ITEM 90872 in TX 4 TSN 4325959
+CONFLICT rolling back 16 items in TX 4 TSN 4325959
+newer TSN 4328807 when acquiring ITEM 40460 in TX 3 TSN 4328806
+CONFLICT rolling back 8 items in TX 3 TSN 4328806
+newer TSN 4331233 when acquiring ITEM 82053 in TX 3 TSN 4331232
+CONFLICT rolling back 7 items in TX 3 TSN 4331232
+newer TSN 4333692 when acquiring ITEM 68097 in TX 3 TSN 4333670
+CONFLICT rolling back 0 items in TX 3 TSN 4333670
+newer TSN 4334739 when acquiring ITEM 26272 in TX 3 TSN 4334716
+CONFLICT rolling back 13 items in TX 3 TSN 4334716
+newer TSN 4336631 when acquiring ITEM 90444 in TX 2 TSN 4336566
+CONFLICT rolling back 5 items in TX 2 TSN 4336566
+newer TSN 4341100 when acquiring ITEM 12214 in TX 4 TSN 4341098
+CONFLICT rolling back 18 items in TX 4 TSN 4341098
+newer TSN 4344058 when acquiring ITEM 59084 in TX 1 TSN 4344035
+CONFLICT rolling back 1 items in TX 1 TSN 4344035
+newer TSN 4344200 when acquiring ITEM 85512 in TX 4 TSN 4344110
+CONFLICT rolling back 7 items in TX 4 TSN 4344110
+newer TSN 4346103 when acquiring ITEM 10802 in TX 5 TSN 4346102
+CONFLICT rolling back 19 items in TX 5 TSN 4346102
+newer TSN 4350157 when acquiring ITEM 51292 in TX 1 TSN 4350017
+CONFLICT rolling back 7 items in TX 1 TSN 4350017
+newer TSN 4363381 when acquiring ITEM 5556 in TX 3 TSN 4363372
+CONFLICT rolling back 11 items in TX 3 TSN 4363372
+newer TSN 4364470 when acquiring ITEM 50478 in TX 2 TSN 4364469
+CONFLICT rolling back 8 items in TX 2 TSN 4364469
+newer TSN 4368063 when acquiring ITEM 21116 in TX 6 TSN 4368062
+CONFLICT rolling back 7 items in TX 6 TSN 4368062
+newer TSN 4376248 when acquiring ITEM 81656 in TX 3 TSN 4376247
+CONFLICT rolling back 16 items in TX 3 TSN 4376247
+newer TSN 4383999 when acquiring ITEM 61092 in TX 5 TSN 4383987
+CONFLICT rolling back 11 items in TX 5 TSN 4383987
+newer TSN 4384539 when acquiring ITEM 16043 in TX 1 TSN 4384522
+CONFLICT rolling back 3 items in TX 1 TSN 4384522
+newer TSN 4384642 when acquiring ITEM 17786 in TX 2 TSN 4384641
+CONFLICT rolling back 4 items in TX 2 TSN 4384641
+newer TSN 4397834 when acquiring ITEM 96885 in TX 5 TSN 4397833
+CONFLICT rolling back 3 items in TX 5 TSN 4397833
+newer TSN 4415415 when acquiring ITEM 20945 in TX 5 TSN 4415414
+CONFLICT rolling back 6 items in TX 5 TSN 4415414
+newer TSN 4429460 when acquiring ITEM 70584 in TX 4 TSN 4429459
+CONFLICT rolling back 14 items in TX 4 TSN 4429459
+newer TSN 4430294 when acquiring ITEM 31827 in TX 4 TSN 4430293
+CONFLICT rolling back 12 items in TX 4 TSN 4430293
+newer TSN 4435207 when acquiring ITEM 6606 in TX 2 TSN 4435195
+CONFLICT rolling back 18 items in TX 2 TSN 4435195
+newer TSN 4447937 when acquiring ITEM 80127 in TX 5 TSN 4447920
+CONFLICT rolling back 16 items in TX 5 TSN 4447920
+newer TSN 4456304 when acquiring ITEM 66950 in TX 1 TSN 4456302
+CONFLICT rolling back 12 items in TX 1 TSN 4456302
+newer TSN 4459013 when acquiring ITEM 13464 in TX 5 TSN 4459012
+CONFLICT rolling back 12 items in TX 5 TSN 4459012
+newer TSN 4462971 when acquiring ITEM 91910 in TX 1 TSN 4462969
+CONFLICT rolling back 9 items in TX 1 TSN 4462969
+newer TSN 4465985 when acquiring ITEM 88358 in TX 4 TSN 4465964
+CONFLICT rolling back 19 items in TX 4 TSN 4465964
+newer TSN 4466282 when acquiring ITEM 83648 in TX 5 TSN 4466175
+CONFLICT rolling back 1 items in TX 5 TSN 4466175
+newer TSN 4467708 when acquiring ITEM 37362 in TX 5 TSN 4467702
+CONFLICT rolling back 14 items in TX 5 TSN 4467702
+newer TSN 4481390 when acquiring ITEM 37959 in TX 6 TSN 4481388
+CONFLICT rolling back 17 items in TX 6 TSN 4481388
+newer TSN 4481761 when acquiring ITEM 4159 in TX 3 TSN 4481759
+CONFLICT rolling back 9 items in TX 3 TSN 4481759
+newer TSN 4481999 when acquiring ITEM 11112 in TX 2 TSN 4481998
+CONFLICT rolling back 7 items in TX 2 TSN 4481998
+newer TSN 4486923 when acquiring ITEM 92968 in TX 5 TSN 4486922
+CONFLICT rolling back 11 items in TX 5 TSN 4486922
+newer TSN 4498574 when acquiring ITEM 49575 in TX 4 TSN 4498564
+CONFLICT rolling back 14 items in TX 4 TSN 4498564
+newer TSN 4506772 when acquiring ITEM 41422 in TX 6 TSN 4506747
+CONFLICT rolling back 14 items in TX 6 TSN 4506747
+newer TSN 4508281 when acquiring ITEM 71979 in TX 3 TSN 4508280
+CONFLICT rolling back 8 items in TX 3 TSN 4508280
+newer TSN 4519577 when acquiring ITEM 68484 in TX 5 TSN 4519576
+CONFLICT rolling back 10 items in TX 5 TSN 4519576
+newer TSN 4522527 when acquiring ITEM 56793 in TX 3 TSN 4522526
+CONFLICT rolling back 12 items in TX 3 TSN 4522526
+newer TSN 4525059 when acquiring ITEM 26189 in TX 4 TSN 4525057
+CONFLICT rolling back 15 items in TX 4 TSN 4525057
+newer TSN 4525794 when acquiring ITEM 34067 in TX 3 TSN 4525793
+CONFLICT rolling back 14 items in TX 3 TSN 4525793
+newer TSN 4535895 when acquiring ITEM 41358 in TX 5 TSN 4535876
+CONFLICT rolling back 5 items in TX 5 TSN 4535876
+newer TSN 4540218 when acquiring ITEM 77038 in TX 2 TSN 4540217
+CONFLICT rolling back 12 items in TX 2 TSN 4540217
+newer TSN 4543443 when acquiring ITEM 38615 in TX 6 TSN 4543442
+CONFLICT rolling back 7 items in TX 6 TSN 4543442
+newer TSN 4543909 when acquiring ITEM 91490 in TX 6 TSN 4543900
+CONFLICT rolling back 6 items in TX 6 TSN 4543900
+newer TSN 4547423 when acquiring ITEM 58347 in TX 2 TSN 4547422
+CONFLICT rolling back 8 items in TX 2 TSN 4547422
+newer TSN 4548826 when acquiring ITEM 6345 in TX 2 TSN 4548825
+CONFLICT rolling back 6 items in TX 2 TSN 4548825
+newer TSN 4554606 when acquiring ITEM 29270 in TX 1 TSN 4554597
+CONFLICT rolling back 19 items in TX 1 TSN 4554597
+newer TSN 4560894 when acquiring ITEM 62698 in TX 6 TSN 4560893
+CONFLICT rolling back 9 items in TX 6 TSN 4560893
+newer TSN 4570968 when acquiring ITEM 78817 in TX 1 TSN 4570967
+CONFLICT rolling back 4 items in TX 1 TSN 4570967
+newer TSN 4573205 when acquiring ITEM 35761 in TX 2 TSN 4573204
+CONFLICT rolling back 15 items in TX 2 TSN 4573204
+newer TSN 4579953 when acquiring ITEM 53781 in TX 6 TSN 4579952
+CONFLICT rolling back 6 items in TX 6 TSN 4579952
+newer TSN 4584579 when acquiring ITEM 70206 in TX 6 TSN 4584578
+CONFLICT rolling back 13 items in TX 6 TSN 4584578
+newer TSN 4591357 when acquiring ITEM 88353 in TX 4 TSN 4591347
+CONFLICT rolling back 14 items in TX 4 TSN 4591347
+newer TSN 4594944 when acquiring ITEM 75155 in TX 1 TSN 4594943
+CONFLICT rolling back 16 items in TX 1 TSN 4594943
+newer TSN 4597965 when acquiring ITEM 11911 in TX 2 TSN 4597961
+CONFLICT rolling back 18 items in TX 2 TSN 4597961
+newer TSN 4599522 when acquiring ITEM 25480 in TX 3 TSN 4599521
+CONFLICT rolling back 17 items in TX 3 TSN 4599521
+newer TSN 4601977 when acquiring ITEM 22397 in TX 6 TSN 4601976
+CONFLICT rolling back 14 items in TX 6 TSN 4601976
+newer TSN 4617544 when acquiring ITEM 97660 in TX 1 TSN 4617543
+CONFLICT rolling back 18 items in TX 1 TSN 4617543
+newer TSN 4622465 when acquiring ITEM 31543 in TX 1 TSN 4622464
+CONFLICT rolling back 12 items in TX 1 TSN 4622464
+newer TSN 4623736 when acquiring ITEM 94699 in TX 6 TSN 4623728
+CONFLICT rolling back 18 items in TX 6 TSN 4623728
+newer TSN 4632350 when acquiring ITEM 25679 in TX 6 TSN 4632349
+CONFLICT rolling back 11 items in TX 6 TSN 4632349
+newer TSN 4642060 when acquiring ITEM 62508 in TX 1 TSN 4642054
+CONFLICT rolling back 1 items in TX 1 TSN 4642054
+newer TSN 4642540 when acquiring ITEM 43270 in TX 6 TSN 4642535
+CONFLICT rolling back 15 items in TX 6 TSN 4642535
+newer TSN 4644162 when acquiring ITEM 9556 in TX 5 TSN 4644161
+CONFLICT rolling back 13 items in TX 5 TSN 4644161
+newer TSN 4656127 when acquiring ITEM 94445 in TX 1 TSN 4656103
+CONFLICT rolling back 1 items in TX 1 TSN 4656103
+newer TSN 4670929 when acquiring ITEM 85114 in TX 5 TSN 4670919
+CONFLICT rolling back 10 items in TX 5 TSN 4670919
+newer TSN 4672554 when acquiring ITEM 40699 in TX 6 TSN 4672537
+CONFLICT rolling back 8 items in TX 6 TSN 4672537
+newer TSN 4679322 when acquiring ITEM 59854 in TX 6 TSN 4679321
+CONFLICT rolling back 9 items in TX 6 TSN 4679321
+newer TSN 4682411 when acquiring ITEM 13973 in TX 4 TSN 4682410
+CONFLICT rolling back 15 items in TX 4 TSN 4682410
+newer TSN 4684628 when acquiring ITEM 35974 in TX 4 TSN 4684627
+CONFLICT rolling back 15 items in TX 4 TSN 4684627
+newer TSN 4692860 when acquiring ITEM 58164 in TX 4 TSN 4692858
+CONFLICT rolling back 8 items in TX 4 TSN 4692858
+newer TSN 4695640 when acquiring ITEM 24884 in TX 2 TSN 4695639
+CONFLICT rolling back 14 items in TX 2 TSN 4695639
+newer TSN 4700714 when acquiring ITEM 6566 in TX 1 TSN 4700707
+CONFLICT rolling back 13 items in TX 1 TSN 4700707
+newer TSN 4702535 when acquiring ITEM 6314 in TX 1 TSN 4702533
+CONFLICT rolling back 14 items in TX 1 TSN 4702533
+newer TSN 4709403 when acquiring ITEM 5223 in TX 5 TSN 4709400
+CONFLICT rolling back 16 items in TX 5 TSN 4709400
+newer TSN 4710099 when acquiring ITEM 69096 in TX 4 TSN 4710095
+CONFLICT rolling back 10 items in TX 4 TSN 4710095
+newer TSN 4724514 when acquiring ITEM 12631 in TX 4 TSN 4724480
+CONFLICT rolling back 5 items in TX 4 TSN 4724480
+newer TSN 4740309 when acquiring ITEM 42986 in TX 4 TSN 4740306
+CONFLICT rolling back 8 items in TX 4 TSN 4740306
+newer TSN 4750435 when acquiring ITEM 35178 in TX 6 TSN 4750434
+CONFLICT rolling back 16 items in TX 6 TSN 4750434
+newer TSN 4752854 when acquiring ITEM 16457 in TX 1 TSN 4752853
+CONFLICT rolling back 7 items in TX 1 TSN 4752853
+newer TSN 4755172 when acquiring ITEM 82880 in TX 5 TSN 4755171
+CONFLICT rolling back 10 items in TX 5 TSN 4755171
+newer TSN 4757035 when acquiring ITEM 16738 in TX 4 TSN 4757034
+CONFLICT rolling back 12 items in TX 4 TSN 4757034
+newer TSN 4764500 when acquiring ITEM 66381 in TX 5 TSN 4764489
+CONFLICT rolling back 9 items in TX 5 TSN 4764489
+newer TSN 4779286 when acquiring ITEM 54207 in TX 1 TSN 4779285
+CONFLICT rolling back 11 items in TX 1 TSN 4779285
+newer TSN 4780388 when acquiring ITEM 51356 in TX 1 TSN 4780370
+CONFLICT rolling back 5 items in TX 1 TSN 4780370
+newer TSN 4783025 when acquiring ITEM 25544 in TX 4 TSN 4783024
+CONFLICT rolling back 11 items in TX 4 TSN 4783024
+newer TSN 4785425 when acquiring ITEM 72245 in TX 4 TSN 4785396
+CONFLICT rolling back 11 items in TX 4 TSN 4785396
+newer TSN 4794976 when acquiring ITEM 31736 in TX 4 TSN 4794968
+CONFLICT rolling back 16 items in TX 4 TSN 4794968
+newer TSN 4802822 when acquiring ITEM 42144 in TX 6 TSN 4802821
+CONFLICT rolling back 11 items in TX 6 TSN 4802821
+newer TSN 4808013 when acquiring ITEM 40497 in TX 3 TSN 4807999
+CONFLICT rolling back 7 items in TX 3 TSN 4807999
+newer TSN 4812334 when acquiring ITEM 76965 in TX 5 TSN 4812317
+CONFLICT rolling back 6 items in TX 5 TSN 4812317
+newer TSN 4817665 when acquiring ITEM 18606 in TX 6 TSN 4817664
+CONFLICT rolling back 11 items in TX 6 TSN 4817664
+newer TSN 4820553 when acquiring ITEM 23903 in TX 6 TSN 4820545
+CONFLICT rolling back 13 items in TX 6 TSN 4820545
+newer TSN 4821963 when acquiring ITEM 58583 in TX 2 TSN 4821948
+CONFLICT rolling back 12 items in TX 2 TSN 4821948
+newer TSN 4827557 when acquiring ITEM 71051 in TX 4 TSN 4827556
+CONFLICT rolling back 13 items in TX 4 TSN 4827556
+newer TSN 4828856 when acquiring ITEM 40805 in TX 1 TSN 4828855
+CONFLICT rolling back 6 items in TX 1 TSN 4828855
+newer TSN 4829141 when acquiring ITEM 70999 in TX 2 TSN 4829038
+CONFLICT rolling back 18 items in TX 2 TSN 4829038
+newer TSN 4830277 when acquiring ITEM 85048 in TX 2 TSN 4830276
+CONFLICT rolling back 7 items in TX 2 TSN 4830276
+newer TSN 4835631 when acquiring ITEM 20196 in TX 1 TSN 4835629
+CONFLICT rolling back 7 items in TX 1 TSN 4835629
+newer TSN 4838992 when acquiring ITEM 85710 in TX 2 TSN 4838987
+CONFLICT rolling back 15 items in TX 2 TSN 4838987
+newer TSN 4839395 when acquiring ITEM 88532 in TX 6 TSN 4839387
+CONFLICT rolling back 11 items in TX 6 TSN 4839387
+newer TSN 4840426 when acquiring ITEM 19898 in TX 5 TSN 4840414
+CONFLICT rolling back 10 items in TX 5 TSN 4840414
+newer TSN 4843606 when acquiring ITEM 67419 in TX 6 TSN 4843605
+CONFLICT rolling back 13 items in TX 6 TSN 4843605
+newer TSN 4848581 when acquiring ITEM 53069 in TX 5 TSN 4848564
+CONFLICT rolling back 12 items in TX 5 TSN 4848564
+newer TSN 4849011 when acquiring ITEM 17722 in TX 1 TSN 4849010
+CONFLICT rolling back 2 items in TX 1 TSN 4849010
+newer TSN 4855933 when acquiring ITEM 33095 in TX 1 TSN 4855932
+CONFLICT rolling back 3 items in TX 1 TSN 4855932
+newer TSN 4858390 when acquiring ITEM 22881 in TX 2 TSN 4858389
+CONFLICT rolling back 4 items in TX 2 TSN 4858389
+newer TSN 4860412 when acquiring ITEM 88103 in TX 1 TSN 4860411
+CONFLICT rolling back 17 items in TX 1 TSN 4860411
+newer TSN 4865796 when acquiring ITEM 62481 in TX 6 TSN 4865766
+CONFLICT rolling back 14 items in TX 6 TSN 4865766
+newer TSN 4870826 when acquiring ITEM 1992 in TX 6 TSN 4870825
+CONFLICT rolling back 16 items in TX 6 TSN 4870825
+newer TSN 4871464 when acquiring ITEM 94500 in TX 6 TSN 4871460
+CONFLICT rolling back 12 items in TX 6 TSN 4871460
+newer TSN 4872439 when acquiring ITEM 71625 in TX 5 TSN 4872438
+CONFLICT rolling back 16 items in TX 5 TSN 4872438
+newer TSN 4874964 when acquiring ITEM 56939 in TX 1 TSN 4874963
+CONFLICT rolling back 11 items in TX 1 TSN 4874963
+newer TSN 4881283 when acquiring ITEM 83566 in TX 5 TSN 4881282
+CONFLICT rolling back 13 items in TX 5 TSN 4881282
+newer TSN 4887112 when acquiring ITEM 85154 in TX 4 TSN 4887110
+CONFLICT rolling back 15 items in TX 4 TSN 4887110
+newer TSN 4890876 when acquiring ITEM 11058 in TX 4 TSN 4890875
+CONFLICT rolling back 10 items in TX 4 TSN 4890875
+newer TSN 4894477 when acquiring ITEM 47855 in TX 5 TSN 4894471
+CONFLICT rolling back 11 items in TX 5 TSN 4894471
+newer TSN 4896550 when acquiring ITEM 1378 in TX 1 TSN 4896549
+CONFLICT rolling back 16 items in TX 1 TSN 4896549
+newer TSN 4903611 when acquiring ITEM 14812 in TX 6 TSN 4903593
+CONFLICT rolling back 6 items in TX 6 TSN 4903593
+newer TSN 4919219 when acquiring ITEM 74220 in TX 3 TSN 4919218
+CONFLICT rolling back 11 items in TX 3 TSN 4919218
+newer TSN 4919454 when acquiring ITEM 57539 in TX 2 TSN 4919453
+CONFLICT rolling back 12 items in TX 2 TSN 4919453
+newer TSN 4926106 when acquiring ITEM 35001 in TX 5 TSN 4926105
+CONFLICT rolling back 6 items in TX 5 TSN 4926105
+newer TSN 4928982 when acquiring ITEM 1587 in TX 6 TSN 4928981
+CONFLICT rolling back 15 items in TX 6 TSN 4928981
+newer TSN 4937341 when acquiring ITEM 70170 in TX 4 TSN 4937340
+CONFLICT rolling back 14 items in TX 4 TSN 4937340
+newer TSN 4944359 when acquiring ITEM 50674 in TX 1 TSN 4944357
+CONFLICT rolling back 8 items in TX 1 TSN 4944357
+newer TSN 4947488 when acquiring ITEM 51020 in TX 6 TSN 4947469
+CONFLICT rolling back 5 items in TX 6 TSN 4947469
+newer TSN 4961668 when acquiring ITEM 72044 in TX 5 TSN 4961667
+CONFLICT rolling back 6 items in TX 5 TSN 4961667
+newer TSN 4963436 when acquiring ITEM 54970 in TX 5 TSN 4963421
+CONFLICT rolling back 14 items in TX 5 TSN 4963421
+newer TSN 4968277 when acquiring ITEM 9993 in TX 4 TSN 4968266
+CONFLICT rolling back 15 items in TX 4 TSN 4968266
+newer TSN 4970270 when acquiring ITEM 85865 in TX 4 TSN 4970269
+CONFLICT rolling back 12 items in TX 4 TSN 4970269
+newer TSN 4970471 when acquiring ITEM 61118 in TX 2 TSN 4970470
+CONFLICT rolling back 12 items in TX 2 TSN 4970470
+newer TSN 4972067 when acquiring ITEM 73549 in TX 1 TSN 4972066
+CONFLICT rolling back 6 items in TX 1 TSN 4972066
+newer TSN 4972776 when acquiring ITEM 5833 in TX 4 TSN 4972759
+CONFLICT rolling back 5 items in TX 4 TSN 4972759
+newer TSN 4977497 when acquiring ITEM 99639 in TX 1 TSN 4977496
+CONFLICT rolling back 12 items in TX 1 TSN 4977496
+newer TSN 4987950 when acquiring ITEM 69178 in TX 3 TSN 4987949
+CONFLICT rolling back 11 items in TX 3 TSN 4987949
+newer TSN 4989809 when acquiring ITEM 97405 in TX 3 TSN 4989796
+CONFLICT rolling back 11 items in TX 3 TSN 4989796
+newer TSN 4997429 when acquiring ITEM 18853 in TX 5 TSN 4997423
+CONFLICT rolling back 9 items in TX 5 TSN 4997423
+newer TSN 5001130 when acquiring ITEM 30850 in TX 5 TSN 5001129
+CONFLICT rolling back 17 items in TX 5 TSN 5001129
+newer TSN 5015290 when acquiring ITEM 34962 in TX 1 TSN 5015289
+CONFLICT rolling back 11 items in TX 1 TSN 5015289
+newer TSN 5027840 when acquiring ITEM 89085 in TX 4 TSN 5027839
+CONFLICT rolling back 14 items in TX 4 TSN 5027839
+newer TSN 5037222 when acquiring ITEM 88299 in TX 5 TSN 5037221
+CONFLICT rolling back 17 items in TX 5 TSN 5037221
+newer TSN 5048759 when acquiring ITEM 15355 in TX 2 TSN 5048758
+CONFLICT rolling back 11 items in TX 2 TSN 5048758
+newer TSN 5050363 when acquiring ITEM 38206 in TX 2 TSN 5050362
+CONFLICT rolling back 17 items in TX 2 TSN 5050362
+newer TSN 5064504 when acquiring ITEM 85196 in TX 4 TSN 5064503
+CONFLICT rolling back 11 items in TX 4 TSN 5064503
+newer TSN 5067373 when acquiring ITEM 43408 in TX 1 TSN 5067372
+CONFLICT rolling back 7 items in TX 1 TSN 5067372
+newer TSN 5068144 when acquiring ITEM 14345 in TX 6 TSN 5068130
+CONFLICT rolling back 13 items in TX 6 TSN 5068130
+newer TSN 5069357 when acquiring ITEM 75371 in TX 2 TSN 5069356
+CONFLICT rolling back 7 items in TX 2 TSN 5069356
+newer TSN 5070957 when acquiring ITEM 61834 in TX 1 TSN 5070956
+CONFLICT rolling back 8 items in TX 1 TSN 5070956
+newer TSN 5072148 when acquiring ITEM 96074 in TX 1 TSN 5072142
+CONFLICT rolling back 13 items in TX 1 TSN 5072142
+newer TSN 5072830 when acquiring ITEM 22380 in TX 2 TSN 5072824
+CONFLICT rolling back 19 items in TX 2 TSN 5072824
+newer TSN 5078797 when acquiring ITEM 13319 in TX 5 TSN 5078778
+CONFLICT rolling back 17 items in TX 5 TSN 5078778
+newer TSN 5096517 when acquiring ITEM 57986 in TX 4 TSN 5096503
+CONFLICT rolling back 6 items in TX 4 TSN 5096503
+newer TSN 5100912 when acquiring ITEM 67171 in TX 4 TSN 5100911
+CONFLICT rolling back 9 items in TX 4 TSN 5100911
+newer TSN 5113257 when acquiring ITEM 56498 in TX 6 TSN 5113256
+CONFLICT rolling back 12 items in TX 6 TSN 5113256
+newer TSN 5114791 when acquiring ITEM 63542 in TX 1 TSN 5114790
+CONFLICT rolling back 11 items in TX 1 TSN 5114790
+newer TSN 5120943 when acquiring ITEM 7891 in TX 2 TSN 5120940
+CONFLICT rolling back 8 items in TX 2 TSN 5120940
+newer TSN 5123317 when acquiring ITEM 26387 in TX 2 TSN 5123277
+CONFLICT rolling back 10 items in TX 2 TSN 5123277
+newer TSN 5123766 when acquiring ITEM 38899 in TX 2 TSN 5123753
+CONFLICT rolling back 5 items in TX 2 TSN 5123753
+newer TSN 5133255 when acquiring ITEM 47606 in TX 2 TSN 5133250
+CONFLICT rolling back 20 items in TX 2 TSN 5133250
+newer TSN 5133452 when acquiring ITEM 32514 in TX 5 TSN 5133450
+CONFLICT rolling back 13 items in TX 5 TSN 5133450
+newer TSN 5137153 when acquiring ITEM 91859 in TX 2 TSN 5137142
+CONFLICT rolling back 5 items in TX 2 TSN 5137142
+newer TSN 5137176 when acquiring ITEM 75167 in TX 4 TSN 5137175
+CONFLICT rolling back 12 items in TX 4 TSN 5137175
+newer TSN 5138503 when acquiring ITEM 81916 in TX 1 TSN 5138501
+CONFLICT rolling back 16 items in TX 1 TSN 5138501
+newer TSN 5139392 when acquiring ITEM 17721 in TX 5 TSN 5139387
+CONFLICT rolling back 4 items in TX 5 TSN 5139387
+newer TSN 5150263 when acquiring ITEM 52906 in TX 2 TSN 5150259
+CONFLICT rolling back 17 items in TX 2 TSN 5150259
+newer TSN 5154374 when acquiring ITEM 57455 in TX 1 TSN 5154373
+CONFLICT rolling back 6 items in TX 1 TSN 5154373
+newer TSN 5158611 when acquiring ITEM 59440 in TX 4 TSN 5158609
+CONFLICT rolling back 9 items in TX 4 TSN 5158609
+newer TSN 5163030 when acquiring ITEM 3343 in TX 1 TSN 5163029
+CONFLICT rolling back 11 items in TX 1 TSN 5163029
+newer TSN 5172096 when acquiring ITEM 92329 in TX 5 TSN 5172095
+CONFLICT rolling back 12 items in TX 5 TSN 5172095
+newer TSN 5172292 when acquiring ITEM 14292 in TX 2 TSN 5172291
+CONFLICT rolling back 10 items in TX 2 TSN 5172291
+newer TSN 5172974 when acquiring ITEM 91844 in TX 3 TSN 5172972
+CONFLICT rolling back 4 items in TX 3 TSN 5172972
+newer TSN 5182647 when acquiring ITEM 17146 in TX 2 TSN 5182646
+CONFLICT rolling back 17 items in TX 2 TSN 5182646
+newer TSN 5196351 when acquiring ITEM 36995 in TX 5 TSN 5196350
+CONFLICT rolling back 18 items in TX 5 TSN 5196350
+newer TSN 5204541 when acquiring ITEM 15122 in TX 4 TSN 5204529
+CONFLICT rolling back 2 items in TX 4 TSN 5204529
+newer TSN 5219780 when acquiring ITEM 74439 in TX 6 TSN 5219779
+CONFLICT rolling back 12 items in TX 6 TSN 5219779
+newer TSN 5219847 when acquiring ITEM 50214 in TX 6 TSN 5219846
+CONFLICT rolling back 19 items in TX 6 TSN 5219846
+newer TSN 5235608 when acquiring ITEM 15475 in TX 5 TSN 5235607
+CONFLICT rolling back 15 items in TX 5 TSN 5235607
+newer TSN 5239215 when acquiring ITEM 84017 in TX 5 TSN 5239210
+CONFLICT rolling back 5 items in TX 5 TSN 5239210
+newer TSN 5242518 when acquiring ITEM 25816 in TX 1 TSN 5242517
+CONFLICT rolling back 15 items in TX 1 TSN 5242517
+newer TSN 5251710 when acquiring ITEM 5582 in TX 4 TSN 5251709
+CONFLICT rolling back 11 items in TX 4 TSN 5251709
+newer TSN 5255261 when acquiring ITEM 33578 in TX 4 TSN 5255260
+CONFLICT rolling back 8 items in TX 4 TSN 5255260
+newer TSN 5271528 when acquiring ITEM 48079 in TX 5 TSN 5271521
+CONFLICT rolling back 5 items in TX 5 TSN 5271521
+newer TSN 5271943 when acquiring ITEM 9267 in TX 2 TSN 5271942
+CONFLICT rolling back 14 items in TX 2 TSN 5271942
+newer TSN 5277235 when acquiring ITEM 25376 in TX 3 TSN 5277234
+CONFLICT rolling back 8 items in TX 3 TSN 5277234
+newer TSN 5280284 when acquiring ITEM 96211 in TX 5 TSN 5280283
+CONFLICT rolling back 15 items in TX 5 TSN 5280283
+newer TSN 5281184 when acquiring ITEM 70486 in TX 1 TSN 5281175
+CONFLICT rolling back 8 items in TX 1 TSN 5281175
+newer TSN 5283220 when acquiring ITEM 40733 in TX 6 TSN 5283219
+CONFLICT rolling back 8 items in TX 6 TSN 5283219
+newer TSN 5285616 when acquiring ITEM 26001 in TX 5 TSN 5285612
+CONFLICT rolling back 14 items in TX 5 TSN 5285612
+newer TSN 5289598 when acquiring ITEM 23913 in TX 1 TSN 5289597
+CONFLICT rolling back 3 items in TX 1 TSN 5289597
+newer TSN 5296547 when acquiring ITEM 3273 in TX 1 TSN 5296505
+CONFLICT rolling back 10 items in TX 1 TSN 5296505
+newer TSN 5300150 when acquiring ITEM 82426 in TX 3 TSN 5300149
+CONFLICT rolling back 5 items in TX 3 TSN 5300149
+newer TSN 5301102 when acquiring ITEM 48949 in TX 2 TSN 5301101
+CONFLICT rolling back 5 items in TX 2 TSN 5301101
+newer TSN 5302494 when acquiring ITEM 4668 in TX 3 TSN 5302488
+CONFLICT rolling back 12 items in TX 3 TSN 5302488
+newer TSN 5302667 when acquiring ITEM 34124 in TX 5 TSN 5302665
+CONFLICT rolling back 7 items in TX 5 TSN 5302665
+newer TSN 5303367 when acquiring ITEM 49554 in TX 4 TSN 5303336
+CONFLICT rolling back 12 items in TX 4 TSN 5303336
+newer TSN 5315569 when acquiring ITEM 30634 in TX 4 TSN 5315568
+CONFLICT rolling back 15 items in TX 4 TSN 5315568
+newer TSN 5316388 when acquiring ITEM 61052 in TX 3 TSN 5316370
+CONFLICT rolling back 7 items in TX 3 TSN 5316370
+newer TSN 5319921 when acquiring ITEM 54586 in TX 4 TSN 5319857
+CONFLICT rolling back 11 items in TX 4 TSN 5319857
+newer TSN 5321121 when acquiring ITEM 55365 in TX 3 TSN 5321120
+CONFLICT rolling back 7 items in TX 3 TSN 5321120
+newer TSN 5324399 when acquiring ITEM 46902 in TX 4 TSN 5324398
+CONFLICT rolling back 7 items in TX 4 TSN 5324398
+newer TSN 5329082 when acquiring ITEM 80130 in TX 2 TSN 5329081
+CONFLICT rolling back 5 items in TX 2 TSN 5329081
+newer TSN 5333106 when acquiring ITEM 22248 in TX 1 TSN 5333102
+CONFLICT rolling back 6 items in TX 1 TSN 5333102
+newer TSN 5334733 when acquiring ITEM 55189 in TX 5 TSN 5334732
+CONFLICT rolling back 8 items in TX 5 TSN 5334732
+newer TSN 5343684 when acquiring ITEM 72533 in TX 5 TSN 5343683
+CONFLICT rolling back 12 items in TX 5 TSN 5343683
+newer TSN 5344077 when acquiring ITEM 98193 in TX 5 TSN 5344076
+CONFLICT rolling back 2 items in TX 5 TSN 5344076
+newer TSN 5357098 when acquiring ITEM 41616 in TX 6 TSN 5357078
+CONFLICT rolling back 10 items in TX 6 TSN 5357078
+newer TSN 5369965 when acquiring ITEM 86459 in TX 5 TSN 5369961
+CONFLICT rolling back 6 items in TX 5 TSN 5369961
+newer TSN 5371458 when acquiring ITEM 36362 in TX 3 TSN 5371457
+CONFLICT rolling back 11 items in TX 3 TSN 5371457
+newer TSN 5375200 when acquiring ITEM 47229 in TX 6 TSN 5375199
+CONFLICT rolling back 6 items in TX 6 TSN 5375199
+newer TSN 5383494 when acquiring ITEM 69660 in TX 1 TSN 5383472
+CONFLICT rolling back 16 items in TX 1 TSN 5383472
+newer TSN 5386523 when acquiring ITEM 26988 in TX 4 TSN 5386522
+CONFLICT rolling back 14 items in TX 4 TSN 5386522
+newer TSN 5392104 when acquiring ITEM 56193 in TX 4 TSN 5392103
+CONFLICT rolling back 13 items in TX 4 TSN 5392103
+newer TSN 5392908 when acquiring ITEM 71428 in TX 4 TSN 5392907
+CONFLICT rolling back 16 items in TX 4 TSN 5392907
+newer TSN 5394088 when acquiring ITEM 77086 in TX 3 TSN 5394087
+CONFLICT rolling back 6 items in TX 3 TSN 5394087
+newer TSN 5395934 when acquiring ITEM 53134 in TX 5 TSN 5395933
+CONFLICT rolling back 18 items in TX 5 TSN 5395933
+newer TSN 5400828 when acquiring ITEM 94943 in TX 5 TSN 5400827
+CONFLICT rolling back 8 items in TX 5 TSN 5400827
+newer TSN 5409042 when acquiring ITEM 74428 in TX 4 TSN 5409040
+CONFLICT rolling back 12 items in TX 4 TSN 5409040
+newer TSN 5410288 when acquiring ITEM 56771 in TX 1 TSN 5410287
+CONFLICT rolling back 14 items in TX 1 TSN 5410287
+newer TSN 5437104 when acquiring ITEM 81911 in TX 1 TSN 5437103
+CONFLICT rolling back 17 items in TX 1 TSN 5437103
+newer TSN 5441325 when acquiring ITEM 94467 in TX 1 TSN 5441324
+CONFLICT rolling back 9 items in TX 1 TSN 5441324
+newer TSN 5442816 when acquiring ITEM 10371 in TX 5 TSN 5442815
+CONFLICT rolling back 10 items in TX 5 TSN 5442815
+newer TSN 5444591 when acquiring ITEM 32632 in TX 1 TSN 5444590
+CONFLICT rolling back 14 items in TX 1 TSN 5444590
+newer TSN 5446149 when acquiring ITEM 94755 in TX 3 TSN 5446126
+CONFLICT rolling back 9 items in TX 3 TSN 5446126
+newer TSN 5452369 when acquiring ITEM 92139 in TX 4 TSN 5452368
+CONFLICT rolling back 12 items in TX 4 TSN 5452368
+newer TSN 5454556 when acquiring ITEM 69176 in TX 4 TSN 5454542
+CONFLICT rolling back 14 items in TX 4 TSN 5454542
+newer TSN 5457258 when acquiring ITEM 40542 in TX 3 TSN 5457257
+CONFLICT rolling back 16 items in TX 3 TSN 5457257
+newer TSN 5457879 when acquiring ITEM 15688 in TX 6 TSN 5457878
+CONFLICT rolling back 12 items in TX 6 TSN 5457878
+newer TSN 5468441 when acquiring ITEM 58941 in TX 5 TSN 5468440
+CONFLICT rolling back 13 items in TX 5 TSN 5468440
+newer TSN 5476112 when acquiring ITEM 72869 in TX 2 TSN 5476106
+CONFLICT rolling back 3 items in TX 2 TSN 5476106
+newer TSN 5476267 when acquiring ITEM 3323 in TX 2 TSN 5476266
+CONFLICT rolling back 4 items in TX 2 TSN 5476266
+newer TSN 5482575 when acquiring ITEM 6410 in TX 1 TSN 5482572
+CONFLICT rolling back 7 items in TX 1 TSN 5482572
+newer TSN 5485936 when acquiring ITEM 83686 in TX 1 TSN 5485932
+CONFLICT rolling back 9 items in TX 1 TSN 5485932
+newer TSN 5490220 when acquiring ITEM 48609 in TX 6 TSN 5490219
+CONFLICT rolling back 13 items in TX 6 TSN 5490219
+newer TSN 5495801 when acquiring ITEM 53088 in TX 3 TSN 5495800
+CONFLICT rolling back 11 items in TX 3 TSN 5495800
+newer TSN 5503828 when acquiring ITEM 58619 in TX 3 TSN 5503821
+CONFLICT rolling back 11 items in TX 3 TSN 5503821
+newer TSN 5505001 when acquiring ITEM 96808 in TX 6 TSN 5505000
+CONFLICT rolling back 17 items in TX 6 TSN 5505000
+newer TSN 5511558 when acquiring ITEM 94984 in TX 6 TSN 5511548
+CONFLICT rolling back 9 items in TX 6 TSN 5511548
+newer TSN 5513894 when acquiring ITEM 24292 in TX 3 TSN 5513892
+CONFLICT rolling back 15 items in TX 3 TSN 5513892
+newer TSN 5518650 when acquiring ITEM 79081 in TX 1 TSN 5518642
+CONFLICT rolling back 18 items in TX 1 TSN 5518642
+newer TSN 5521827 when acquiring ITEM 33206 in TX 3 TSN 5521826
+CONFLICT rolling back 11 items in TX 3 TSN 5521826
+newer TSN 5523752 when acquiring ITEM 33955 in TX 1 TSN 5523751
+CONFLICT rolling back 18 items in TX 1 TSN 5523751
+newer TSN 5531913 when acquiring ITEM 28645 in TX 6 TSN 5531912
+CONFLICT rolling back 14 items in TX 6 TSN 5531912
+newer TSN 5542894 when acquiring ITEM 86249 in TX 4 TSN 5542893
+CONFLICT rolling back 14 items in TX 4 TSN 5542893
+newer TSN 5544128 when acquiring ITEM 5052 in TX 1 TSN 5544127
+CONFLICT rolling back 17 items in TX 1 TSN 5544127
+newer TSN 5550772 when acquiring ITEM 6285 in TX 1 TSN 5550771
+CONFLICT rolling back 14 items in TX 1 TSN 5550771
+newer TSN 5553287 when acquiring ITEM 64326 in TX 3 TSN 5553278
+CONFLICT rolling back 8 items in TX 3 TSN 5553278
+newer TSN 5556891 when acquiring ITEM 59829 in TX 5 TSN 5556890
+CONFLICT rolling back 17 items in TX 5 TSN 5556890
+newer TSN 5572910 when acquiring ITEM 92617 in TX 1 TSN 5572909
+CONFLICT rolling back 17 items in TX 1 TSN 5572909
+newer TSN 5577807 when acquiring ITEM 50809 in TX 2 TSN 5577806
+CONFLICT rolling back 9 items in TX 2 TSN 5577806
+newer TSN 5578199 when acquiring ITEM 58561 in TX 6 TSN 5578198
+CONFLICT rolling back 11 items in TX 6 TSN 5578198
+newer TSN 5587302 when acquiring ITEM 32522 in TX 2 TSN 5587300
+CONFLICT rolling back 17 items in TX 2 TSN 5587300
+newer TSN 5591873 when acquiring ITEM 14997 in TX 2 TSN 5591872
+CONFLICT rolling back 14 items in TX 2 TSN 5591872
+newer TSN 5593334 when acquiring ITEM 13008 in TX 3 TSN 5593315
+CONFLICT rolling back 8 items in TX 3 TSN 5593315
+newer TSN 5594813 when acquiring ITEM 61220 in TX 3 TSN 5594812
+CONFLICT rolling back 8 items in TX 3 TSN 5594812
+newer TSN 5600514 when acquiring ITEM 26468 in TX 5 TSN 5600513
+CONFLICT rolling back 10 items in TX 5 TSN 5600513
+newer TSN 5601133 when acquiring ITEM 76700 in TX 2 TSN 5601120
+CONFLICT rolling back 14 items in TX 2 TSN 5601120
+newer TSN 5607857 when acquiring ITEM 32051 in TX 5 TSN 5607856
+CONFLICT rolling back 8 items in TX 5 TSN 5607856
+newer TSN 5607953 when acquiring ITEM 35145 in TX 3 TSN 5607878
+CONFLICT rolling back 6 items in TX 3 TSN 5607878
+newer TSN 5609222 when acquiring ITEM 40608 in TX 1 TSN 5609221
+CONFLICT rolling back 13 items in TX 1 TSN 5609221
+newer TSN 5609952 when acquiring ITEM 71640 in TX 3 TSN 5609951
+CONFLICT rolling back 7 items in TX 3 TSN 5609951
+newer TSN 5620197 when acquiring ITEM 33040 in TX 3 TSN 5620195
+CONFLICT rolling back 12 items in TX 3 TSN 5620195
+newer TSN 5621582 when acquiring ITEM 19111 in TX 2 TSN 5621581
+CONFLICT rolling back 9 items in TX 2 TSN 5621581
+newer TSN 5626824 when acquiring ITEM 1602 in TX 4 TSN 5626822
+CONFLICT rolling back 15 items in TX 4 TSN 5626822
+newer TSN 5638876 when acquiring ITEM 43060 in TX 1 TSN 5638875
+CONFLICT rolling back 14 items in TX 1 TSN 5638875
+newer TSN 5654685 when acquiring ITEM 11680 in TX 1 TSN 5654676
+CONFLICT rolling back 9 items in TX 1 TSN 5654676
+newer TSN 5665761 when acquiring ITEM 125 in TX 6 TSN 5665745
+CONFLICT rolling back 14 items in TX 6 TSN 5665745
+newer TSN 5669379 when acquiring ITEM 49354 in TX 2 TSN 5669378
+CONFLICT rolling back 11 items in TX 2 TSN 5669378
+newer TSN 5671505 when acquiring ITEM 98116 in TX 2 TSN 5671503
+CONFLICT rolling back 3 items in TX 2 TSN 5671503
+newer TSN 5674453 when acquiring ITEM 59681 in TX 4 TSN 5674444
+CONFLICT rolling back 19 items in TX 4 TSN 5674444
+newer TSN 5678682 when acquiring ITEM 56936 in TX 3 TSN 5678652
+CONFLICT rolling back 3 items in TX 3 TSN 5678652
+newer TSN 5679566 when acquiring ITEM 89158 in TX 6 TSN 5679562
+CONFLICT rolling back 5 items in TX 6 TSN 5679562
+newer TSN 5693727 when acquiring ITEM 77181 in TX 2 TSN 5693724
+CONFLICT rolling back 12 items in TX 2 TSN 5693724
+newer TSN 5694577 when acquiring ITEM 71587 in TX 3 TSN 5694575
+CONFLICT rolling back 11 items in TX 3 TSN 5694575
+newer TSN 5698068 when acquiring ITEM 31156 in TX 4 TSN 5698067
+CONFLICT rolling back 5 items in TX 4 TSN 5698067
+newer TSN 5705309 when acquiring ITEM 69736 in TX 6 TSN 5705293
+CONFLICT rolling back 1 items in TX 6 TSN 5705293
+newer TSN 5705570 when acquiring ITEM 42965 in TX 1 TSN 5705399
+CONFLICT rolling back 2 items in TX 1 TSN 5705399
+newer TSN 5714119 when acquiring ITEM 37596 in TX 4 TSN 5714102
+CONFLICT rolling back 12 items in TX 4 TSN 5714102
+newer TSN 5715306 when acquiring ITEM 98407 in TX 4 TSN 5715299
+CONFLICT rolling back 19 items in TX 4 TSN 5715299
+newer TSN 5729077 when acquiring ITEM 48908 in TX 5 TSN 5729036
+CONFLICT rolling back 3 items in TX 5 TSN 5729036
+newer TSN 5735831 when acquiring ITEM 10599 in TX 2 TSN 5735830
+CONFLICT rolling back 3 items in TX 2 TSN 5735830
+newer TSN 5737901 when acquiring ITEM 40537 in TX 2 TSN 5737888
+CONFLICT rolling back 10 items in TX 2 TSN 5737888
+newer TSN 5742049 when acquiring ITEM 54118 in TX 4 TSN 5742048
+CONFLICT rolling back 9 items in TX 4 TSN 5742048
+newer TSN 5744585 when acquiring ITEM 1255 in TX 4 TSN 5744584
+CONFLICT rolling back 19 items in TX 4 TSN 5744584
+newer TSN 5751468 when acquiring ITEM 40225 in TX 5 TSN 5751467
+CONFLICT rolling back 10 items in TX 5 TSN 5751467
+newer TSN 5765067 when acquiring ITEM 85461 in TX 2 TSN 5765066
+CONFLICT rolling back 7 items in TX 2 TSN 5765066
+newer TSN 5769311 when acquiring ITEM 67502 in TX 6 TSN 5769310
+CONFLICT rolling back 13 items in TX 6 TSN 5769310
+newer TSN 5781829 when acquiring ITEM 15171 in TX 4 TSN 5781827
+CONFLICT rolling back 12 items in TX 4 TSN 5781827
+newer TSN 5786898 when acquiring ITEM 37856 in TX 3 TSN 5786870
+CONFLICT rolling back 10 items in TX 3 TSN 5786870
+newer TSN 5787663 when acquiring ITEM 5838 in TX 3 TSN 5787662
+CONFLICT rolling back 13 items in TX 3 TSN 5787662
+newer TSN 5799172 when acquiring ITEM 69816 in TX 1 TSN 5799171
+CONFLICT rolling back 7 items in TX 1 TSN 5799171
+newer TSN 5800612 when acquiring ITEM 11119 in TX 5 TSN 5800611
+CONFLICT rolling back 15 items in TX 5 TSN 5800611
+newer TSN 5802422 when acquiring ITEM 19054 in TX 4 TSN 5802420
+CONFLICT rolling back 20 items in TX 4 TSN 5802420
+newer TSN 5811840 when acquiring ITEM 51675 in TX 3 TSN 5811839
+CONFLICT rolling back 9 items in TX 3 TSN 5811839
+newer TSN 5828076 when acquiring ITEM 80690 in TX 4 TSN 5828055
+CONFLICT rolling back 7 items in TX 4 TSN 5828055
+newer TSN 5848556 when acquiring ITEM 40850 in TX 3 TSN 5848555
+CONFLICT rolling back 8 items in TX 3 TSN 5848555
+newer TSN 5852990 when acquiring ITEM 2300 in TX 4 TSN 5852989
+CONFLICT rolling back 10 items in TX 4 TSN 5852989
+newer TSN 5856404 when acquiring ITEM 37584 in TX 4 TSN 5856403
+CONFLICT rolling back 18 items in TX 4 TSN 5856403
+newer TSN 5859754 when acquiring ITEM 74995 in TX 4 TSN 5859697
+CONFLICT rolling back 3 items in TX 4 TSN 5859697
+newer TSN 5875738 when acquiring ITEM 28756 in TX 3 TSN 5875721
+CONFLICT rolling back 6 items in TX 3 TSN 5875721
+newer TSN 5876836 when acquiring ITEM 91346 in TX 3 TSN 5876835
+CONFLICT rolling back 11 items in TX 3 TSN 5876835
+newer TSN 5876910 when acquiring ITEM 16975 in TX 6 TSN 5876909
+CONFLICT rolling back 16 items in TX 6 TSN 5876909
+newer TSN 5877848 when acquiring ITEM 53287 in TX 2 TSN 5877840
+CONFLICT rolling back 7 items in TX 2 TSN 5877840
+newer TSN 5879582 when acquiring ITEM 14291 in TX 4 TSN 5879569
+CONFLICT rolling back 13 items in TX 4 TSN 5879569
+newer TSN 5881252 when acquiring ITEM 17201 in TX 4 TSN 5881251
+CONFLICT rolling back 15 items in TX 4 TSN 5881251
+newer TSN 5889120 when acquiring ITEM 29508 in TX 2 TSN 5889106
+CONFLICT rolling back 15 items in TX 2 TSN 5889106
+newer TSN 5889866 when acquiring ITEM 68200 in TX 3 TSN 5889865
+CONFLICT rolling back 13 items in TX 3 TSN 5889865
+newer TSN 5903415 when acquiring ITEM 28145 in TX 3 TSN 5903414
+CONFLICT rolling back 16 items in TX 3 TSN 5903414
+newer TSN 5910932 when acquiring ITEM 58740 in TX 2 TSN 5910931
+CONFLICT rolling back 11 items in TX 2 TSN 5910931
+newer TSN 5915960 when acquiring ITEM 53297 in TX 4 TSN 5915931
+CONFLICT rolling back 8 items in TX 4 TSN 5915931
+newer TSN 5916866 when acquiring ITEM 87402 in TX 5 TSN 5916865
+CONFLICT rolling back 10 items in TX 5 TSN 5916865
+newer TSN 5919611 when acquiring ITEM 99204 in TX 4 TSN 5919594
+CONFLICT rolling back 11 items in TX 4 TSN 5919594
+TX 2 took 3453 msec
+newer TSN 5921926 when acquiring ITEM 42407 in TX 5 TSN 5921908
+CONFLICT rolling back 11 items in TX 5 TSN 5921908
+TX 4 took 3461 msec
+TX 3 took 3474 msec
+newer TSN 5946454 when acquiring ITEM 74319 in TX 6 TSN 5946453
+CONFLICT rolling back 11 items in TX 6 TSN 5946453
+newer TSN 5950477 when acquiring ITEM 12632 in TX 6 TSN 5950476
+CONFLICT rolling back 12 items in TX 6 TSN 5950476
+newer TSN 5958702 when acquiring ITEM 87916 in TX 5 TSN 5958701
+CONFLICT rolling back 20 items in TX 5 TSN 5958701
+newer TSN 5962159 when acquiring ITEM 11162 in TX 6 TSN 5962155
+CONFLICT rolling back 18 items in TX 6 TSN 5962155
+TX 5 took 3499 msec
+newer TSN 5993861 when acquiring ITEM 55463 in TX 1 TSN 5993860
+CONFLICT rolling back 4 items in TX 1 TSN 5993860
+TX 1 took 3546 msec
+TX 6 took 3550 msec
+
+transactions required 3551 msec
+clean-up required 0 msec
